@@ -1,0 +1,18 @@
+# Theme metadata
+name = "RBI"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#CFB87C"
+
+# Menu
+menu_primary = "#000000"
+menu_text = "#A2A4A3"
+menu_text_active = "#565A5C"
+menu_title = "#ffffff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
