@@ -37,7 +37,7 @@ height = "250px"
 
 [[item]]
   title = "I :heart: RNA Symposium"
-  content = "Febrary 13 2020"
+  content = "February 13 2020"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
