@@ -1,5 +1,5 @@
 ---
-title: 'I Heart RNA Symposium'
+title: 'RBI 2020 Symposium'
 url: "/symposium"
 author: Jay Hesselberth
 date: '2019-07-27'
@@ -16,13 +16,6 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
-gallery_item:
-- album: symposium-candy
-  image: symposium/candy.png
-- album: symposium-candy
-  image: symposium/candy2.png
-- album: symposium-candy
-  image: symposium/candy3.png
 ---
 
 The RBI-sponsored I :heart: RNA Symposium will be held February 13 2020 on the [Univeristy of Colorado Anschutz Medical Campus](http://cuanschutz.edu) in the [Fulginiti Pavillion](http://www.ucdenver.edu/academics/colleges/medicalschool/centers/BioethicsHumanities/AboutUs/Pages/Fulginiti%20Pavilion.aspx).
@@ -40,4 +33,4 @@ Confirmed speakers include:
 - [Dipali Sashital, Ph.D.](http://www.sashitallab.org/) (Iowa State University)
 - [Timothy Yu M.D., Ph.D.](https://www.theyulab.org/) (Harvard Medical School)
 
-<!-- {{< gallery album="symposium-candy" >}} -->
+<!-- {{< gallery >}} -->

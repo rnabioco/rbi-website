@@ -2,13 +2,13 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false # Activate this widget? true/false
+active = true # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "RNA Bioscience Initiative"
+title = "RBI Mission"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-# hero_media = "logo-small.png"
+hero_media = "cu-logos/02_centered/Color/som_RNABioscience_c_clr_rv.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -24,8 +24,8 @@ title = "RNA Bioscience Initiative"
   #gradient_end = "#2b94c3"
   
   # Background image.
-  image = "rna-banner.png"  # Name of image in `static/img/`.
-  image_darken = 0.7  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "banners/flyer-logo.png"  # Name of image in `static/img/`.
+  image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true

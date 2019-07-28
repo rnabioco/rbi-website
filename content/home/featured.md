@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Featured Publications"
-subtitle = "RBI faculty and trainee achievements"
+title = "Research highlights"
+subtitle = "From RBI faculty and trainees"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -54,7 +54,11 @@ subtitle = "RBI faculty and trainee achievements"
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["40px", "0", "40px", "0"]
+
 [advanced]
  # Custom CSS. 
  css_style = ""
@@ -62,3 +66,8 @@ subtitle = "RBI faculty and trainee achievements"
  # CSS class.
  css_class = ""
 +++
+
+{{% alert note %}}
+See more [publications from RBI faculty and trainees](/publication).
+{{% /alert %}}
+
