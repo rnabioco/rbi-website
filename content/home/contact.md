@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Contact"
-subtitle = "Questions about the RBI? Get in touch!"
+subtitle = "Questions about the RNA Bioscience Initiative? Get in touch!"
 
 # Automatically link email and phone?
 autolink = false
@@ -15,6 +15,6 @@ autolink = false
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 0
+email_form = 1
 +++
 
