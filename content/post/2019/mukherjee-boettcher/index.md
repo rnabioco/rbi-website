@@ -2,7 +2,7 @@
 title: Mukherjee Named 2019 Boettcher Investigator
 author: Jay Hesselberth
 date: '2019-07-27'
-slug: mukherjee-named-2019-boettcher-investigator
+slug: mukherjee-boettcher
 categories:
   - Grants
 tags:
@@ -19,7 +19,7 @@ image:
 projects: []
 ---
 
-Neelanjan Mukherjee is one of five University of Colorado biomedical researchers named Boettcher Investigators.
+RBI faculty member Neelanjan Mukherjee, PhD is one of five new Boettcher Investigators.
 
 
 This year is the 10th class to receive research funding through the

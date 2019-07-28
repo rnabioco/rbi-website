@@ -1,6 +1,6 @@
 ---
 title: Illuminating FSHD Research
-subtitle: 'Jagannathan hosts World FSHD day'
+subtitle: ''
 url: "/world-fshd-day"
 author: Jay Hesselberth
 date: '2019-06-23'
@@ -18,8 +18,11 @@ image:
 projects: []
 ---
 
-[Sujatha Jagannathan, PhD](http://jagannathan-lab.org/) hosted World FSHD Day on June 23 2019, bringing patients and their
+RBI faculty member Sujatha Jagannathan, PhD hosted World FSHD Day on June 23 2019.
+
+
+World FSHD Day brought patients and their
 families together with researchers and clinicians to discuss Fascioscapular Humeral Muscular Dystrophy and raise awareness for the [FSHD Society](https://www.fshsociety.org/),
-which [funds her research](https://www.fshsociety.org/wp-content/uploads/2019/03/FSHSocietyIncGrantAwards_August2018.pdf).
+which [research in the Jagannathan lab](https://www.fshsociety.org/wp-content/uploads/2019/03/FSHSocietyIncGrantAwards_August2018.pdf).
 
 {{< gallery >}}
