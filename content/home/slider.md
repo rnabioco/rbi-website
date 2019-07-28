@@ -16,10 +16,10 @@ height = "300px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["2px", "0", "0", "0"]
-  margin = ["0", "0", "0", "0"]
+#[design.spacing]
+#  # Customize the section spacing. Order is top, right, bottom, left.
+#  padding = ["2px", "0", "0", "0"]
+#  margin = ["0", "0", "0", "0"]
 
 [[item]]
   title = "World FSHD Day"
