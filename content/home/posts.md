@@ -69,3 +69,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+<a class="twitter-timeline" data-lang="en" data-width="800" data-height="300" data-theme="dark" data-link-color="#F5F8FA" href="https://twitter.com/rnabioco?ref_src=twsrc%5Etfw">Tweets by rnabioco</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
