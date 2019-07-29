@@ -1,7 +1,10 @@
----
-header:
-  caption: ""
-  image: ""
-title: Recent & Upcoming Talks
-view: 2
----
++++
+title = "Upcoming Events"
+subtitle = "RBI-sponsored seminars, clubs, and chalk talks"
+
+[design]
+  view = 2
+
+[content]
+  order = "desc"
++++
