@@ -28,7 +28,7 @@ height = "300px"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#ff6700"  # An HTML color value.
+  overlay_color = "#ff944b"  # An HTML color value.
   # overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
@@ -47,7 +47,7 @@ height = "300px"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#FF66CC"  # An HTML color value.
+  overlay_color = "#bba8b5"  # An HTML color value.
   # overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
