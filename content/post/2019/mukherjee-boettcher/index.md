@@ -8,7 +8,7 @@ categories:
 tags:
   - RNA Regulation
 subtitle: ''
-summary: ''
+summary: 'RBI faculty member is one of 5 new awardees'
 authors: []
 lastmod: '2019-07-27T15:07:17-06:00'
 featured: no

@@ -1,0 +1,15 @@
+# Font style metadata
+name = "rbi"
+
+# Optional Google font URL
+google_fonts = "Nunito|Roboto:500|Source+Code+Pro"
+
+# Font families
+heading_font = "Roboto"
+body_font = "Nunito"
+nav_font = "Roboto"
+mono_font = "Source Code Pro"
+
+# Font size
+font_size = "18"
+font_size_small = "14"

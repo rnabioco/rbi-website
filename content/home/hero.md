@@ -49,7 +49,7 @@ hero_media = "cu-logos/02_centered/Color/som_RNABioscience_c_clr_rv.png"
 +++
 
 The mission of the **RNA Bioscience Initiative** is to create and expand a vibrant
-center of discovery and innovation in RNA research, diagnostics, and therapy. Our
+center of discovery and innovation in RNA biology, diagnostics, and therapy. Our
 goal is to provide a fluid pipeline from basic to clinical RNA research at the
 [Anschutz Medical Campus](http://cuanschutz.edu).
 
