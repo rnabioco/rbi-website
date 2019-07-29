@@ -1,5 +1,6 @@
 ---
 all_day: false
+publishDate: "2019-07-01T12:00:00Z"
 date: "2020-01-16T12:00:00Z"
 date_end: "2020-01-16T13:00:00Z"
 abstract: "" 

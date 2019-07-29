@@ -1,4 +1,5 @@
 ---
+publishDate: "2019-07-01T12:00:00Z"
 all_day: false
 date: "2020-02-12T12:00:00Z"
 date_end: "2020-02-12T13:00:00Z"
