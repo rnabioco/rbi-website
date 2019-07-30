@@ -39,6 +39,11 @@
 #  weight = 55
 
 [[main]]
+  name = "What is RNA?"
+  url = "what-is-rna/"
+  weight = 58
+  
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
