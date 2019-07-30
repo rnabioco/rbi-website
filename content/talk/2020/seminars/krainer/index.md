@@ -18,7 +18,7 @@ on March 10 2020.
 
 Adrian's research group studies the mechanism of pre-mRNA splicing and his
 work led to the development and deployment of one of the first FDA-approved
-antisense oligonucleotide therapies to cure spinal muscular atrohpy, for which
+antisense oligonucleotide therapies to treat spinal muscular atrophy, for which
 he and Frank Bennett were awarded the [2019 Breakthrough Prize in Life
 Science](https://breakthroughprize.org/Laureates/2/L3845).
 

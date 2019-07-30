@@ -14,6 +14,11 @@
 #  weight = 10
 
 [[main]]
+  name = "Events"
+  url = "#talks"
+  weight = 25
+
+[[main]]
   name = "Research"
   url = "#featured"
   weight = 30
@@ -23,11 +28,6 @@
   url = "#posts"
   weight = 40
   
-[[main]]
-  name = "Events"
-  url = "talk/"
-  weight = 45
-
 [[main]]
   name = "Education"
   url = "education/"
