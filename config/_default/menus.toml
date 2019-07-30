@@ -43,8 +43,8 @@
   url = "#contact"
   weight = 60
 
-[[main]]
-  name = "Donate"
-  url = "https://giving.cu.edu/fund/biochemistry-and-molecular-genetics-discovery-fund"
-  weight = 70
+#[[main]]
+#  name = "Donate"
+#  url = "https://giving.cu.edu/fund/biochemistry-and-molecular-genetics-discovery-fund"
+#  weight = 70
 
