@@ -10,7 +10,7 @@ location: CU Anschutz Hensel Phelps West
 tags: ['Seminar']
 title: Adrian Krainer, PhD (CSHL) - Dean's Distinguished Seminar
 image:
-  caption: 'Image credit: [**Breakthrough Prize**](https://breakthroughprize.org/Laureates/2/L3845)
+  caption: 'Image credit: [**Breakthrough Prize**](https://breakthroughprize.org/Laureates/2/L3845)'
 ---
 
 The RBI welcomes Adrian Krainer, PhD for the Dean's Distinguished Seminar 
