@@ -24,8 +24,8 @@ hero_media = "cu-logos/02_centered/Color/som_RNABioscience_c_clr_rv.png"
   #gradient_end = "#2b94c3"
   
   # Background image.
-  image = "banners/flyer-logo-inverse.png"  # Name of image in `static/img/`.
-  image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "headers/rna-header-min.png"  # Name of image in `static/img/`.
+  image_darken = 0.7  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true
