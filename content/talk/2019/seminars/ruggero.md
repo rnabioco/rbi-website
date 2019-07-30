@@ -6,7 +6,7 @@ date_end: "2019-09-18T13:00:00Z"
 abstract: Translational Control in Cancer
 event: Davide Ruggero, PhD (UCSF)
 featured: false
-location: CU Anschutz RC1 South 10100 
+location: CU Anschutz RC1 South 9th floor conference room
 tags: ['Seminar']
 title: Davide Ruggero, PhD (UCSF)
 ---

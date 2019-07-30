@@ -6,7 +6,7 @@ date_end: "2020-01-13T13:00:00Z"
 # abstract: Translational Control in Cancer
 event: Stacy Horner, PhD (Duke Univ)
 featured: false
-location: CU Anschutz RC1 South 10100 
+location: CU Anschutz RC1 South 9th floor conference room
 tags: ['Seminar']
 title: Stacy Horner, PhD (Duke Univ)
 ---

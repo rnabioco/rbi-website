@@ -6,7 +6,7 @@ date_end: "2020-05-11T13:00:00Z"
 #abstract: Translational Control in Cancer
 event: Angela DePace, PhD  
 featured: false
-location: CU Anschutz RC1 South 10100 
+location: CU Anschutz RC1 South 9th floor conference room
 tags: ['Seminar']
 title: Angela DePace, PhD  
 ---
