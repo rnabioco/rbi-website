@@ -10,3 +10,5 @@ location: Health Science Library TL2
 tags: ['Workshop']
 title: Single-cell mRNA Sequencing Workshop 
 ---
+
+See the {{% staticref "files/scrna-workshop.pdf" "newtab" %}}workshop flyer{{% /staticref %}} for more details.
