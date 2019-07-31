@@ -6,8 +6,8 @@ date: '2019-07-31'
 slug: ['happy-rna-day']
 categories: []
 tags: []
-subtitle: 'Wishing you the best AUG start to the next year!'
-summary: 'We celebrate RNA Day each August 1 (AUG 1)!'
+subtitle: 'Wishing you the best start to the next year!'
+summary: 'We celebrate RNA Day each August 1 (AUG 1)'
 authors: []
 lastmod: '2019-07-31T06:48:19-06:00'
 featured: no
@@ -23,7 +23,5 @@ Here is our wish for you, hope it doesn't get [lost in translation](https://web.
 ```
 AUGCAUGCGCCGCCGUAUCGCAACGCGGAUGCGUAUUAA !!!
 ```
-
-[Let's see those RNA cakes!](https://twitter.com/search?q=%23RNAday&src=typed_query)
 
 {{< gallery >}}
