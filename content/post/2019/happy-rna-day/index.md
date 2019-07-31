@@ -18,9 +18,11 @@ image:
 projects: []
 ---
 
-**Happy RNA Day, RNA Enthusiasts!**
+Here is our wish for you, hope it doesn't get [lost in translation](https://web.expasy.org/translate/):
 
-Each August 1 we celebrate a new AUG START to the new year! May your RNA forever remain intact!
+```
+AUGCAUGCGCCGCCGUAUCGCAACGCGGAUGCGUAUUAA !!!
+```
 
 [Let's see those RNA cakes!](https://twitter.com/search?q=%23RNAday&src=typed_query)
 
