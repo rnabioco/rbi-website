@@ -33,11 +33,11 @@ hero_media = "cu-logos/02_centered/Color/som_RNABioscience_c_clr_rv.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-#[cta]
-#  url = "https://sourcethemes.com/academic/docs/install/"
-#  label = "Get Started"
-#  icon_pack = "fas"
-#  icon = "download"
+[cta]
+  url = "about/"
+  label = "About the RBI"
+  icon_pack = "fas"
+  icon = "info-circle"
   
 #[cta_alt]
 #  url = "https://sourcethemes.com/academic/"
@@ -48,8 +48,5 @@ hero_media = "cu-logos/02_centered/Color/som_RNABioscience_c_clr_rv.png"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-The mission of the **RNA Bioscience Initiative** is to create and expand a vibrant
-center of discovery and innovation in RNA biology, diagnostics, and therapy. Our
-goal is to provide a fluid pipeline from basic to clinical RNA research at the
-[Anschutz Medical Campus](http://cuanschutz.edu).
+The mission of the **RNA Bioscience Initiative** is to create and expand a vibrant center of discovery and innovation in RNA biology, informatics, diagnostics, and therapy. Our goal is to provide a fluid pipeline from basic to clinical RNA research at the [Anschutz Medical Campus](http://cuanschutz.edu).
 
