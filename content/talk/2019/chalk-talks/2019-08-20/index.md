@@ -11,7 +11,8 @@ title: RNA Collaboration Club
 summary: "Join us for a chalk talk by Rachel Jones (Kieft lab)"
 ---
 
-**Rachel Jones** (Kieft lab) will present a chalk talk.
+**Rachel Jones** (Kieft lab) will present "Brain Cytoplasmic RNAs:
+Uncharacterized lncRNAs in localized neuronal translation inhibition".
 
 ## Organizer
 
