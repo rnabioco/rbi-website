@@ -21,7 +21,7 @@ projects: []
 Here is our wish for you, hope it doesn't get [lost in translation](https://web.expasy.org/translate/):
 
 ```
-AUGCAUGCGCCGCCGUAUCGCAACGCGGAUGCGUAUUAA !!!
+AUGGCGUAUUAUGAACGCCGCAACGCGAGCACCGCGUAUAUUAACACCGCGUGCACCUAA !!!
 ```
 
 {{< gallery >}}
