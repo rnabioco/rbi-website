@@ -38,13 +38,13 @@ The RNA Bioscience Initiative was started in January 2016 with $20 million in fu
 
 The mission of the RNA Bioscience Initiative is to understand the role of RNA in biology, engage in collaborative research, apply approaches from basic science to clinical efforts, and train the next generation of researchers.
 
-The RNA Bioscience Initiative has made substantial and sustained contributions to answering these questions:
+The RNA Bioscience Initiative is making substantial and sustained contributions to answering these questions:
 
 - What are the RNAs that drive biological outcomes in healthy and diseased cells, how does their expression change, and how is this regulated?
 - What are the downstream biological effects that are driven by diverse RNAs, and how are these RNA-based processes regulated?
 - How do RNAs elicit their effects and what are the details of their mechanisms of action?
 - Can we exploit this knowledge to create better RNA-based research tools, diagnostics, and therapies that either use RNA or target it?
 
-The Anschutz Medical Campus and the region offer existing strengths that will allow this initiative to excel. The University of Colorado has a history in RNA research and its transition to startup biotechnology companies and the academic environment and degree of collegiality among RNA biologists in Colorado is notably strong. In addition, the University’s Technology Transfer Office has extensive experience in obtaining intellectual property on RNA diagnostics and therapeutics and has spearheaded the transition of these discoveries into the marketplace.
-
 Investigators on campus have already made important discoveries in the field, covering RNA structure-function, RNA biogenesis, non-coding regulatory RNAs in disease, RNA methods development and mechanisms of regulation by non-coding RNAs.
+
+The [Anschutz Medical Campus](http://cuanschutz.edu) and the region offer existing strengths that will allow this initiative to excel. The University of Colorado has a storied history in RNA research and its transition to startup biotechnology companies. The academic environment and collegiality among RNA biologists in Colorado is stronger than ever. In addition, [CU Innovations](http://www.ucdenver.edu/anschutz/about/cuinnovations/Pages/default.aspx) has extensive experience in obtaining intellectual property in RNA diagnostics and therapeutics and has spearheaded the transition of these discoveries into the marketplace.
