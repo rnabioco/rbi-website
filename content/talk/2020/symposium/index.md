@@ -1,6 +1,6 @@
 ---
 title: 'RBI 2020 Symposium'
-url: "/symposium"
+url: "symposium/"
 date: "2020-02-13T09:00:00Z"
 date_end: "2020-02-13T17:00:00Z"
 author: Jay Hesselberth
