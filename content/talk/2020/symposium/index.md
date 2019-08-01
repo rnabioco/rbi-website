@@ -1,13 +1,15 @@
 ---
 title: 'RBI 2020 Symposium'
 url: "/symposium"
+date: "2020-02-13T09:00:00Z"
+date_end: "2020-02-13T17:00:00Z"
 author: Jay Hesselberth
-date: '2019-07-27'
-slug: i-heart-rna-symposium
+slug: symposium
 categories: []
+location: CU Anschutz Fulginiti Pavillion
 tags:
   - Symposium
-summary: ''
+summary: 'An all-day symposium with rising stars in RNA research'
 authors: []
 lastmod: '2019-07-27T15:19:31-06:00'
 featured: no
@@ -18,7 +20,7 @@ image:
 projects: []
 ---
 
-The RBI-sponsored I :heart: RNA Symposium will be held February 13 2020 on the [Univeristy of Colorado Anschutz Medical Campus](http://cuanschutz.edu) in the [Fulginiti Pavillion](http://www.ucdenver.edu/academics/colleges/medicalschool/centers/BioethicsHumanities/AboutUs/Pages/Fulginiti%20Pavilion.aspx).
+The RBI-sponsored Rocky Mountain RNA Symposium will be held February 13 2020 on the [Univeristy of Colorado Anschutz Medical Campus](http://cuanschutz.edu) in the [Fulginiti Pavillion](http://www.ucdenver.edu/academics/colleges/medicalschool/centers/BioethicsHumanities/AboutUs/Pages/Fulginiti%20Pavilion.aspx).
 
 We have a fantastic line-up of speakers spanning RNA in disease, regulatory
 RNAs, RNA structure & fuction, and RNA therapeutics.
@@ -32,5 +34,3 @@ Confirmed speakers include:
 - [Athma Pai, Ph.D.](http://pai-lab.org/) (University of Massachusets Medical School)
 - [Dipali Sashital, Ph.D.](http://www.sashitallab.org/) (Iowa State University)
 - [Timothy Yu M.D., Ph.D.](https://www.theyulab.org/) (Harvard Medical School)
-
-<!-- {{< gallery >}} -->

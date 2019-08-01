@@ -22,13 +22,13 @@ height = "300px"
 #  margin = ["0", "0", "0", "0"]
 
 [[item]]
-  title = "I :heart: RNA Symposium"
+  title = "Rocky Mountain RNA Symposium"
   content = "February 13 2020"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#bba8b5"  # An HTML color value.
+  overlay_color = "#A2A4A3"  # An HTML color value.
   # overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
