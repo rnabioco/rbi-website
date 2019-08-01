@@ -12,8 +12,8 @@ authors: []
 lastmod: '2019-07-31T06:48:19-06:00'
 featured: no
 image:
-  caption: 'Photo by Marty Southwell on Unsplash'
-  focal_point: 'smart'
+  caption: ''
+  focal_point: ''
   preview_only: no
 projects: []
 ---
