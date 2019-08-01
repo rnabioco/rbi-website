@@ -1,6 +1,6 @@
 ---
-title: 'RBI 2020 Symposium'
-url: "symposium/"
+title: 'Rocky Mountain RNA Symposium'
+# url: "symposium/"
 date: "2020-02-13T09:00:00Z"
 date_end: "2020-02-13T17:00:00Z"
 author: Jay Hesselberth
