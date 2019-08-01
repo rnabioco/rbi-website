@@ -12,10 +12,12 @@ header:
   image: headers/rna-header-stripe.png
 ---
 
+{{% alert note %}}
 **The next deadline for applications will be mid-Feburary 2020**
+{{% /alert %}}
 
-Hands-on, mentored research opportunities in RNA Biology, Chemistry,
-Biochemistry, Genomics, and Bioinformatics
+A hands-on, mentored research opportunities in RNA biology, chemistry,
+biochemistry, genomics, and bioinformatics.
 
 The RNA Bioscience Initiative (RBI) at the University of Colorado School of
 Medicine in the Denver metro area offers a summer research internship program in
@@ -39,11 +41,9 @@ basic to clinical RNA research on our campus and beyond.
 
 Important information:
 
-- 10-week program. June 3-August 9, 2019 (start/end date flexible). $5000
-  stipend.
+- 10-week program, from early June through early August (start and end dates flexible). $5000 stipend.
 
-- Opportunities to work hands-on in the lab of a research mentor on one of a
-  broad range of cutting-edge RNA research projects.
+- Opportunities for hands-on research expericnece in the lab of a research mentor on one of a broad range of cutting-edge RNA research projects.
 
 - An orientation day to the RNA Bioscience Initiative and Internship Program.
 
