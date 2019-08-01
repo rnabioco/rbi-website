@@ -8,6 +8,6 @@ event: Angela DePace, PhD (Harvard Medical School)
 featured: false
 location: CU Anschutz RC1 South 9th floor conference room
 tags: ['Seminar']
-title: Angela DePace, PhD  
+title: Angela DePace, PhD (Harvard Medical School)
 ---
 Hosts: Olivia Rissland 
