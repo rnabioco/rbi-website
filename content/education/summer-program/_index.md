@@ -10,10 +10,11 @@ type: page
 weight: 1
 header:
   image: headers/rna-header-stripe.png
+toc: true  
 ---
 
 {{% alert note %}}
-**The next deadline for applications will be mid-Feburary 2020**
+**The next deadline for applications will be in Feburary 2020**
 {{% /alert %}}
 
 A hands-on, mentored research opportunities in RNA biology, chemistry,
