@@ -11,7 +11,7 @@ title: RNA Collaboration Club
 summary: "Join us for chalk talk by James Till (Vazquez-Torres lab)"
 ---
 
-**James Till** (Vazquez-Torres lab) will present "**TBD**".
+**James Till** (Vazquez-Torres lab) will present "**rRNA methylation and translational fidelity in Salmonella**".
 
 ## Organizer
 
