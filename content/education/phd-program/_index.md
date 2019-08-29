@@ -9,7 +9,6 @@ categories:
 tags:
   - Education
 summary: 'A PhD program focused on basic and clinical discoveries in RNA research'
-summary: ''
 authors: []
 lastmod: '2019-07-30T13:32:12-06:00'
 featured: no
