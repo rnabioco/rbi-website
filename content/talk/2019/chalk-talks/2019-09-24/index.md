@@ -1,6 +1,6 @@
 ---
-date: "2019-09-10T16:00:00Z"
-date_end: "2019-09-10T17:00:00Z"
+date: "2019-09-24T16:00:00Z"
+date_end: "2019-09-24T17:00:00Z"
 publishDate: "2019-07-01T12:00:00Z"
 all_day: false
 event: RNA Collaboration Club 
