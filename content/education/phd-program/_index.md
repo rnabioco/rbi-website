@@ -30,7 +30,7 @@ Please apply to the [Molecular Biology Program](http://www.ucdenver.edu/academic
 See the {{% staticref "files/recruitment-2019.pdf" %}} flyer PDF {{% /staticref %}}.
 
 {{% alert note %}}
-**Applicants interested in RNA biology can have their application feed waived.**
+**Applicants interested in RNA biology can have their application fee waived.**
 
-Please contact <rna.bioscience@ucdenver.edu> for more details.
+Please contact <rna.bioscience@ucdenver.edu> before applying for more details.
 {{% /alert %}}
