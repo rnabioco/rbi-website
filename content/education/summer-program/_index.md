@@ -11,6 +11,8 @@ weight: 1
 header:
   image: headers/rna-header-stripe.png
 toc: true  
+aliases:
+  - /summer-program/
 ---
 
 {{% alert note %}}
