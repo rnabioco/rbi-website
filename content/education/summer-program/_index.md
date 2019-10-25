@@ -44,7 +44,7 @@ basic to clinical RNA research on our campus and beyond.
 
 Important information:
 
-- 10-week program, from early June through early August (start and end dates flexible). $5000 stipend.
+- 10-week program, from early June through early August (start and end dates flexible). $4,000 stipend.
 
 - Opportunities for hands-on research expericnece in the lab of a research mentor on one of a broad range of cutting-edge RNA research projects.
 
