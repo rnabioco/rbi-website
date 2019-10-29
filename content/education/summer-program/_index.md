@@ -46,6 +46,8 @@ Important information:
 
 - 10-week program, from early June through early August (start and end dates flexible). $4,000 stipend.
 
+- Round-trip travel to Denver and housing are provided to our interns.
+
 - Opportunities for hands-on research expericnece in the lab of a research mentor on one of a broad range of cutting-edge RNA research projects.
 
 - An orientation day to the RNA Bioscience Initiative and Internship Program.
