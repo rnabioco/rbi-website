@@ -16,7 +16,7 @@ aliases:
 ---
 
 {{% alert note %}}
-**The next deadline for applications will be in Feburary 2020**
+**The application form will be available Nov 15, with a deadline in Feburary 2020**
 {{% /alert %}}
 
 A hands-on, mentored research opportunities in RNA biology, chemistry,
