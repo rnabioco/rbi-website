@@ -50,7 +50,7 @@ Important information:
 
 - Starting in Summer 2020, 50% of interns will be selected from [SACNAS](https://sacnas.org)-affiliated students.
 
-- Opportunities for hands-on research expericnece in the lab of a research mentor on one of a broad range of cutting-edge RNA research projects.
+- Opportunities for hands-on research experience in the lab of a research mentor on one of a broad range of cutting-edge RNA research projects.
 
 - An orientation day to the RNA Bioscience Initiative and Internship Program.
 
