@@ -22,6 +22,8 @@ aliases:
 A hands-on, mentored research opportunities in RNA biology, chemistry,
 biochemistry, genomics, and bioinformatics.
 
+Please see [our faculty](http://www.ucdenver.edu/academics/colleges/medicalschool/programs/rna/facultyresearch/Pages/default.aspx) who can served as summer mentors.
+
 The RNA Bioscience Initiative (RBI) at the University of Colorado School of
 Medicine in the Denver metro area offers a summer research internship program in
 the areas of RNA Biology, Chemistry, Biochemistry, Genomics, and Bioinformatics.
