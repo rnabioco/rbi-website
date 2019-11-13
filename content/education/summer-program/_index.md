@@ -16,13 +16,11 @@ aliases:
 ---
 
 {{% alert note %}}
-**The application form will be available Nov 15, with a deadline in Feburary 2020**
+**Use the {{% staticref "files/rbisip-2020.docx" %}} application form{{% /staticref %}} to assemble your application and choose from [our faculty](http://www.ucdenver.edu/academics/colleges/medicalschool/programs/rna/facultyresearch/Pages/default.aspx) who can serve as summer mentors. Applications are due on February 15, 2020.**
 {{% /alert %}}
 
 A hands-on, mentored research opportunities in RNA biology, chemistry,
 biochemistry, genomics, and bioinformatics.
-
-Please see [our faculty](http://www.ucdenver.edu/academics/colleges/medicalschool/programs/rna/facultyresearch/Pages/default.aspx) who can served as summer mentors.
 
 The RNA Bioscience Initiative (RBI) at the University of Colorado School of
 Medicine in the Denver metro area offers a summer research internship program in
