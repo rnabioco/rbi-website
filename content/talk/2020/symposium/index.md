@@ -10,6 +10,10 @@ summary: 'An all-day symposium with rising stars in RNA research'
 featured: false
 ---
 
+{{% alert note %}}
+Registration is now open at: <http://bit.ly/rocky-rna-symposium>.
+{{% /alert %}}
+
 The RBI-sponsored Rocky Mountain RNA Symposium will be held February 13 2020 on the [Univeristy of Colorado Anschutz Medical Campus](http://cuanschutz.edu) in the [Fulginiti Pavillion](http://www.ucdenver.edu/academics/colleges/medicalschool/centers/BioethicsHumanities/AboutUs/Pages/Fulginiti%20Pavilion.aspx).
 
 We have a fantastic line-up of speakers spanning RNA in disease, regulatory
