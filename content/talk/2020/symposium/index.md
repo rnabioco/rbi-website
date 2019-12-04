@@ -19,12 +19,21 @@ The RBI-sponsored Rocky Mountain RNA Symposium will be held February 13 2020 on 
 We have a fantastic line-up of speakers spanning RNA in disease, regulatory
 RNAs, RNA structure & fuction, and RNA therapeutics.
 
-Spots will be limited so stay tuned for registration details!
+Spots are limited so register early!
 
 Confirmed speakers include:
 
-- [John Karijolich, Ph.D.](https://www.vumc.org/karijolich-lab/person/john-karijolich-phd) (Vanderbilt University)
-- [Kristin Koutmou, Ph.D.](https://www.koutmoulab.com/) (University of Michigan)
-- [Athma Pai, Ph.D.](http://pai-lab.org/) (University of Massachusets Medical School)
-- [Dipali Sashital, Ph.D.](http://www.sashitallab.org/) (Iowa State University)
-- [Timothy Yu M.D., Ph.D.](https://www.theyulab.org/) (Harvard Medical School)
+- **[John Karijolich, Ph.D.](https://www.vumc.org/karijolich-lab/person/john-karijolich-phd)** (Vanderbilt University)  
+  *RNA-based mechanisms of antiviral immunity*
+  
+- **[Kristin Koutmou, Ph.D.](https://www.koutmoulab.com/)** (University of Michigan)  
+  *TBD*
+  
+- **[Athma Pai, Ph.D.](http://pai-lab.org/)** (University of Massachusets Medical School)  
+  *TBD*
+  
+- **[Dipali Sashital, Ph.D.](http://www.sashitallab.org/)** (Iowa State University)  
+  *Pervasive off-target and double-stranded DNA nicking by CRISPR-Cas12a*
+  
+- **[Timothy Yu, M.D., Ph.D.](https://www.theyulab.org/)** (Harvard Medical School)  
+  *TBD*
