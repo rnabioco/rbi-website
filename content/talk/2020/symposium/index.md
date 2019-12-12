@@ -30,7 +30,7 @@ Confirmed speakers include:
   *TBD*
   
 - **[Athma Pai, Ph.D.](http://pai-lab.org/)** (University of Massachusets Medical School)  
-  *TBD*
+  *The kinetics of mRNA processing: speeding through gene regulation*
   
 - **[Dipali Sashital, Ph.D.](http://www.sashitallab.org/)** (Iowa State University)  
   *Pervasive off-target and double-stranded DNA nicking by CRISPR-Cas12a*
