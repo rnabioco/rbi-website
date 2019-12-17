@@ -27,7 +27,7 @@ Confirmed speakers include:
   *RNA-based mechanisms of antiviral immunity*
   
 - **[Kristin Koutmou, Ph.D.](https://www.koutmoulab.com/)** (University of Michigan)  
-  *TBD*
+  *Molecular level consequences of mRNA modifications on translation*
   
 - **[Athma Pai, Ph.D.](http://pai-lab.org/)** (University of Massachusets Medical School)  
   *The kinetics of mRNA processing: speeding through gene regulation*
@@ -36,4 +36,4 @@ Confirmed speakers include:
   *Pervasive off-target and double-stranded DNA nicking by CRISPR-Cas12a*
   
 - **[Timothy Yu, M.D., Ph.D.](https://www.theyulab.org/)** (Harvard Medical School)  
-  *TBD*
+  *Antisense Oligonucleotide Therapy for Rare Pediatric Neurological Disorders*
