@@ -36,4 +36,4 @@ Confirmed speakers include:
   *Pervasive off-target and double-stranded DNA nicking by CRISPR-Cas12a*
   
 - **[Timothy Yu, M.D., Ph.D.](https://www.theyulab.org/)** (Harvard Medical School)  
-  *Antisense Oligonucleotide Therapy for Rare Pediatric Neurological Disorders*
+  *Milasen and evolutionary steps towards personalized medicines*
