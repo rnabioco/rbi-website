@@ -11,7 +11,7 @@ featured: false
 ---
 
 {{% alert note %}}
-Registration is now open at: <http://bit.ly/rocky-rna-symposium>.
+We are at capacity and registration is now closed.
 {{% /alert %}}
 
 The RBI-sponsored Rocky Mountain RNA Symposium will be held February 13 2020 on the [Univeristy of Colorado Anschutz Medical Campus](http://cuanschutz.edu) in the [Fulginiti Pavillion](http://www.ucdenver.edu/academics/colleges/medicalschool/centers/BioethicsHumanities/AboutUs/Pages/Fulginiti%20Pavilion.aspx).
@@ -37,3 +37,9 @@ Confirmed speakers include:
   
 - **[Timothy Yu, M.D., Ph.D.](https://www.theyulab.org/)** (Harvard Medical School)  
   *Milasen and evolutionary steps towards personalized medicines*
+
+# Support
+
+[![Peds](http://www.ucdenver.edu/SiteCollectionImages/Logos/som_pediatrics.png)](http://www.ucdenver.edu/academics/colleges/medicalschool/departments/pediatrics/subs/DevelopmentalBiology/Pages/DevelopmentalBiology.aspx)
+
+[![CSS](http://www.ucdenver.edu/SiteCollectionImages/Logos/som_cbscd.png)](http://www.ucdenver.edu/academics/colleges/medicalschool/programs/CSD/Pages/about.aspx)
