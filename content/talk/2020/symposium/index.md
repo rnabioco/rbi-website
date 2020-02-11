@@ -17,3 +17,14 @@ The RBI-sponsored Rocky Mountain RNA Symposium will be held February 13 2020 on 
 
 ![](/img/symposium/schedule.jpg)
 
+# Speaker info
+
+- **[John Karijolich, Ph.D.](https://www.vumc.org/karijolich-lab/person/john-karijolich-phd)** (Vanderbilt University)
+
+- **[Kristin Koutmou, Ph.D.](https://www.koutmoulab.com/)** (University of Michigan)
+
+- **[Athma Pai, Ph.D.](http://pai-lab.org/)** (University of Massachusets Medical School)
+
+- **[Dipali Sashital, Ph.D.](http://www.sashitallab.org/)** (Iowa State University)
+
+- **[Timothy Yu, M.D., Ph.D.](https://www.theyulab.org/)** (Harvard Medical School)
