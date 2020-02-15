@@ -13,17 +13,17 @@ font = ""
 font_size = "M"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "The RNA Bioscience Initiative at the Unversity of Colorado Anschutz Medical Campus"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "logo.png"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = "rnabioco"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = ""
+logo = "logo.png"
 
 # Enable source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
