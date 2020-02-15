@@ -11,7 +11,7 @@ interval = 5000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "250px"
+height = "300px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -28,8 +28,8 @@ height = "250px"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#CFB87C"  # An HTML color value.
-  # overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+  # overlay_color = "#CFB87C"  # An HTML color value.
+  overlay_img = "headers/jan-kaluza-kS7JFzWH5Cs-unsplash.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -37,6 +37,18 @@ height = "250px"
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "More Information"
   cta_url = "/talk/2020/seminars/technology-rfa"
+  
+[[item]]
+  title = "Dean's Distinguished Seminar: Adrian Krainer, PhD"
+  content = "March 10, 2020"
+  align = "left"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#CFB87C"  # An HTML color value.
+
+  cta_label = "More Information"
+  cta_url = "/talk/2020/seminars/krainer/"
 
 #[[item]]
 #  title = "Left"
