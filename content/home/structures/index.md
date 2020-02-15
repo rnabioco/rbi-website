@@ -19,6 +19,9 @@ gallery_item:
 - album: gallery
   image: xrrna-steckelberg.png
   caption: Sweet clover necrotic mosaic virus Xrn1-resistant RNA (Steckelberg et al, Kieft Lab) 
+- album: gallery
+  image: uucg-vogeli.png
+  caption: Single-State 14-mer UUCG Tetraloop calculated from Exact NOEs (Nichols et al, Vogeli lab)
 ---
 
 RNA is a remarkably versatile biological macromolecule that can encode genetic information, catalyze chemical reactions, scaffold the assembly of large macromolecular machines, and bind small molecules.
