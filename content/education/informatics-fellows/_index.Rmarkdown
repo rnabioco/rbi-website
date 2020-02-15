@@ -1,11 +1,10 @@
 ---
-linktitle: Informatics Fellows Program
+linktitle: RBI Informatics Fellows Program
 summary: The RBI Informatics Fellows program trains postdoctoral fellows in cutting
   edge RNA bioinformatics.
 title: RBI Informatics Fellows Program Overview 
 type: docs
 weight: 2
-lastmod: 2020-08-04
 toc: true
 menu:
   informatics-fellows:
@@ -41,19 +40,23 @@ Their training involves several important areas of bioinformatic collaboration:
 
 - **Education**. Our educational mission is to broadly disseminate the analytical skills required to analyze RNA sequencing experiments, and the Fellows participate in several [teaching](#education) activities. These efforts have been impactful across campus, with many graduate students, PRAs, postdocs, and principal investigators benefiting from the Fellows' expertise. 
 
-# Current fellows
+# Meet the Informatics Fellows
 
-The program was formed and is led by [Jay Hesselberth, Ph.D.](https://hesselberthlab.org), Associate Professor of Biochemistry and Molecular Genetics. 
-
-Currently the program has four fellows:
+## Current
   
 1. **Kent Riemondy, Ph.D.** did thesis work at the University of Colorado Boulder with Rui Yi studying the role of miRNA biogenesis and targeting in skin. Kent has been in the program for `r time_length(today() - ymd(20160711), "years") %>% round(2)` years.
-
-1. **Austin Gillen, Ph.D.** did thesis work at Northwestern University with Ann Harris studying miRNA regulation of CFTR. Austin has been in the program for `r time_length(today() - ymd(20170301), "years") %>% round(2)` years.
 
 1. **Rui Fu, Ph.D.** did thesis work at the University of California San Diego with Jens Lykke-Andersen studying the mechanism of nonsense-mediated mRNA decay. Rui has been in the program for `r time_length(today() - ymd(20171201), "years") %>% round(2)` years.
 
 1. **Ryan Sheridan, Ph.D.** did thesis work at the University of Colorado Anschtuz Medical Campus with David Bentley studying the role of backtracking in RNA Polymerase II proofreading. Ryan has been in the program for `r time_length(today() - ymd(20190301), "months") %>% round(2)` months.
+
+1. **Caitlin Winkler, Ph.D.** did thesis work at the University of Colorado Anschtuz Medical Campus with Santos Franco studying the role of Asc1 in development of cortical neurons. Caitlin has been in the program for `r time_length(today() - ymd(20200201), "months") %>% round(2)` months.
+
+1. **Tyler Matheny, Ph.D.** did thesis work at the University of Colorado Boulder with Roy Parker studying the impact of cytoplasmic bodies on mRNA processing. Tyler starts on March 1, 2020. 
+
+## Former 
+
+1. **Austin Gillen, Ph.D.** did thesis work at Northwestern University with Ann Harris studying miRNA regulation of CFTR. Austin was in the program for `r time_length(today() - ymd(20170301), "years") %>% round(2)` years. Austin recently received a career development award from the Department of Veterans Affairs and works closely with the lab of Craig Jordan to understand heterogeneity in AML tumors.
 
 # Projects
 
