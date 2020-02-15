@@ -23,7 +23,7 @@ gallery_item:
 
 RNA is a remarkably versatile biological macromolecule that can encode genetic information, catalyze chemical reactions, scaffold the assembly of large macromolecular machines, and bind small molecules.
 
-**How does RNA perform so many biological tasks?** The answer lies in its ability to form diverse three-dimensional structures whose complexity rivals that of proteins. This gallery contains pictures of RNA structures determine by RBI faculty including the [Kieft lab](http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Research/researchlabs/KieftLab/Pages/Research.aspx), the [Zhao lab](https://zhaolab-colorado.github.io/), the [Asturias lab](http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Research/researchlabs/asturiaslab/Pages/default.aspx), and the [Vogeli lab](http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Faculty/PrimaryFaculty/Pages/vogeli.aspx).
+**How does RNA perform so many biological tasks?** The answer lies in its ability to form diverse three-dimensional structures whose complexity rivals that of proteins. This gallery contains RNA structures determined by RBI faculty including the [Kieft lab](http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Research/researchlabs/KieftLab/Pages/Research.aspx), the [Zhao lab](https://zhaolab-colorado.github.io/), the [Asturias lab](http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Research/researchlabs/asturiaslab/Pages/default.aspx), and the [Vogeli lab](http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Faculty/PrimaryFaculty/Pages/vogeli.aspx).
 
 {{< gallery >}}
 
