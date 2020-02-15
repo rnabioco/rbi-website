@@ -7,6 +7,7 @@ url: "/informatics-fellows"
 type: docs
 weight: 2
 toc: true
+lastupdate: 2020-02-15
 menu:
   informatics-fellows:
     name: Program Overview 
@@ -66,7 +67,7 @@ knitr::opts_chunk$set(echo = TRUE)
 source("common.R")
 ```
 
-```{r collabs, echo = FALSE}
+```{r collabs, echo = FALSE, warn = FALSE}
 projects_collab <- filter(projects, rfa != "RBI Faculty" & rfa != "RBI Fellows")
 exp_collab <- select(projects_collab, exp.type, pi) %>%
   unnest() %>%
@@ -194,9 +195,5 @@ The Fellows help create and teach several courses focused on intersection of RNA
 
 ### Workshops
 
-The fellows are developing a short course on analysis of single-cell RNA sequencing experiments. This course will be offered on the Anschutz Medical Campus and will hopefully shift some of the workload of single-cell RNA-seq analysis into individual labs.
-
-### Other courses
-
-The fellows taught the [Genome Analysis Workshop](http://molb7621.github.io/workshop/) in Spring 2017. This semester-long course teaches the basics of shell programming, analysis in R, and scripting in Python. 
+The fellows developed a [short course](https://rnabioco.github.io/cellar/) on analysis of single-cell RNA sequencing experiments. This course will be offered periodically on the Anschutz Medical Campus and will hopefully shift some of the workload of single-cell RNA-seq analysis into individual labs.
 
