@@ -26,7 +26,7 @@ Modern biology has been revolutionized by the discovery that many processes of f
 
 ## What is RNA?
 
-Riboucleic Acid (RNA) is a type of molecule in cells that performs several functions. RNA transmits messages encoded in DNA to their protein form. Many cellular machines are made of RNA and perform specialized functions. The "NA" in DNA and RNA indicates they both are created in the nucleus, but unlike DNA, RNA can be found throughout the cell.
+Ribonucleic Acid (RNA) is a type of molecule in cells that performs several functions. RNA transmits messages encoded in DNA to their protein form. Many cellular machines are made of RNA and perform specialized functions. The "NA" in DNA and RNA indicates they both are created in the nucleus, but unlike DNA, RNA can be found throughout the cell.
 
 RNA biology has emerged as one of the most influential areas in modern biology and clinical science. The discovery of numerous new classes of RNAs and their function in a wide spectrum of biological processes has revolutionized molecular biology and has profound implications for clinical sciences. Key areas of current research include the elucidation of RNA biogenesis and structure, the identification of functions for various classes of RNAs, establishing the role of RNA in disease, and the exploration of RNA-based- and RNA-targeted therapies.
 

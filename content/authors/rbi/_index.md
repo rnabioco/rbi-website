@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-email: "rna.bioscience@ucdenver.edu"
+email: "rna.bioscience@cuanschutz.edu"
 name: RNA Bioscience Initiative
 organizations:
 - name: University of Colorado Anschutz Medical Campus
