@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Research highlights"
-subtitle = "From RBI faculty and trainees"
+title = "RBI Research Highlights"
+subtitle = "See the latest discoveries from RBI faculty and trainees"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

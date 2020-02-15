@@ -15,9 +15,7 @@ aliases:
   - /summer-program/
 ---
 
-{{% alert note %}}
-**Use the {{% staticref "files/rbisip-2020.docx" %}} application form{{% /staticref %}} to assemble your application and choose from [our faculty](http://www.ucdenver.edu/academics/colleges/medicalschool/programs/rna/facultyresearch/Pages/default.aspx) who can serve as summer mentors. Applications are due on February 15, 2020.**
-{{% /alert %}}
+{{% alert note %}} **Use the {{% staticref "files/rbisip-2020.docx" %}} application form{{% /staticref %}} to assemble your application and choose from [our faculty](http://www.ucdenver.edu/academics/colleges/medicalschool/programs/rna/facultyresearch/Pages/default.aspx) who can serve as summer mentors. Applications are due on February 15, 2020.** {{% /alert %}}
 
 A hands-on, mentored research opportunities in RNA biology, chemistry,
 biochemistry, genomics, and bioinformatics.
