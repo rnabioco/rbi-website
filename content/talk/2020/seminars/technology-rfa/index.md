@@ -12,6 +12,10 @@ title: Single-cell technologies RFA
 profile: false
 ---
 
+
+**Pilot award applications will be due on April 15, 2020.**
+
+
 The RBI is soliciting applications for our next round of pilot awards. This set
 of awards will be focused around new single-cell technologies we have already
 developed, or would like to develop in collabobration with local groups.
@@ -22,11 +26,12 @@ approaches to probe:
 
 1. **Receptor-ligand interactions that control gene expression**. We and others have established a workflow for scoring receptor-ligand interactions in single-cells. We hope to collaboratively apply this tool to study receptor:ligand interactinos that control organismal development, specificity in the immune system, and cell cycle control deregulated in cancer.
 
-1. **Tracking Molecular dissemination in animals**. We developed an approach to track the distribution of molecules in animals using single-cell sequencing to understand the cell-type specificity and impacts of delivered molecules in vivo. We hope to collaboratively apply this tool to define
+1. **Tracking Molecular dissemination in animals**. We developed an approach to track the distribution of molecules in animals using single-cell sequencing to understand the cell-type specificity and impacts of delivered molecules in vivo.
 
-1. **Single-cell lineaging**. New methods can track the development of an initial cell or cell population using DNA barcoding strategies and single-cell RNA sequencing. The RBI plans to invest in these new technologies and is looking to partner with researchers with interesting biological applications. 
+1. **Single-cell lineaging**. New methods can track the development of an initial cell or cell population using DNA barcoding strategies and single-cell RNA sequencing. The RBI plans to invest in these new technologies and is looking to partner with researchers interesting biological applications. 
 
 We also have ideas to combine single-cell mRNA-sequencing with long-reading
 sequencing for analysis of full-length mRNA isoforms and viral RNAs, or to
 expand the capabilities of multi-modal single-cell mRNA-seq to analyze diverse
-cellular phenotypes. 
+cellular phenotypes.
+
