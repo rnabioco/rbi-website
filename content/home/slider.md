@@ -22,8 +22,8 @@ height = "300px"
 #  margin = ["0", "0", "0", "0"]
 
 [[item]]
-  title = "Single-cell technologies RFA"
-  content = "March 3, 2020"
+  title = "Single-cell Technologies Pilot Awards"
+  content = "Informational seminar on March 3, 2020"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -39,8 +39,8 @@ height = "300px"
   cta_url = "/talk/2020/seminars/technology-rfa"
   
 [[item]]
-  title = "Dean's Distinguished Seminar: Adrian Krainer, PhD"
-  content = "March 10, 2020"
+  title = "Dean's Distinguished Seminar"
+  content = "Splicing pioneer Adrian Krainer, PhD visits on March 10, 2020"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
