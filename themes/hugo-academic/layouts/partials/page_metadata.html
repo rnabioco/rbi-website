@@ -1,9 +1,5 @@
 {{ $is_list := .is_list }}
-{{ $share := .share | default false }}
 {{ $page := .page }}
-
-<meta content="{{ $page.Params.Date }}" itemprop="datePublished">
-<meta content="{{ $page.Params.LastMod }}" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -27,7 +23,7 @@
           {{ i18n "last_updated" }}
       {{ end }}
     {{ end }}
-    <time>{{ $date }}</time>
+    {{ $date }}
   </span>
   {{ end }}
 
@@ -54,7 +50,6 @@
   {{ if and $disqus_enabled (site.Params.comments.disqus.show_count | default true) }}
   <span class="middot-divider"></span>
   <a href="{{ $page.RelPermalink }}#disqus_thread"><!-- Count will be inserted here --></a>
-  <script id="dsq-count-scr" src="https://{{site.Params.comments.disqus.shortname}}.disqus.com/count.js" async></script>
   {{ end}}
 
   {{ $taxonomy := "categories" }}
@@ -67,10 +62,6 @@
       <a href="{{ (site.GetPage (printf "/%s/%s" $taxonomy (. | urlize))).RelPermalink }}">{{ . }}</a>
     {{- end -}}
   </span>
-  {{ end }}
-
-  {{ if $share }}
-    {{ partial "share.html" $page }}
   {{ end }}
 
 </div>
