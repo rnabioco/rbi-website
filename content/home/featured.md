@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "RBI Research Highlights"
-subtitle = "See the latest discoveries from our RBI faculty and trainees"
+subtitle = "See the latest discoveries from RBI faculty and trainees"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
