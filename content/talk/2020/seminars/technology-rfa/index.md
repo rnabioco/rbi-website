@@ -4,16 +4,17 @@ publishDate: "2019-07-01T12:00:00Z"
 date: "2020-03-03T14:00:00Z"
 # date_end: "2020-03-17T13:00:00Z"
 # abstract: "" 
-event: RFA for Single-cell Technologies 
+event: Pilot Awards for Single-cell Technologies
 featured: true
 location: CU Anschutz Hensel Phelps West 
 tags: ['Seminar', 'RFA']
-title: Single-cell technologies RFA
+title: Pilot Awards for Single-cell Technologies
 profile: false
 ---
 
-
+{{% alert note %}}
 **Pilot award applications will be due on April 15, 2020.**
+{{% /alert %}}
 
 
 The RBI is soliciting applications for our next round of pilot awards. This set
