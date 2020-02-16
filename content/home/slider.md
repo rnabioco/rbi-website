@@ -36,7 +36,7 @@ height = "300px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "More Information"
-  cta_url = "/talk/2020/seminars/technology-rfa"
+  cta_url = "/sc-pilot"
   
 [[item]]
   title = "Dean's Distinguished Seminar"
