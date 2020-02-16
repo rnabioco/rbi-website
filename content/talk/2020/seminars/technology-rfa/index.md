@@ -4,6 +4,7 @@ publishDate: "2019-07-01T12:00:00Z"
 date: "2020-03-03T14:00:00Z"
 # date_end: "2020-03-17T13:00:00Z"
 # abstract: "" 
+url: /sc-pilot
 event: Pilot Awards for Single-cell Technologies
 featured: true
 location: CU Anschutz Hensel Phelps West 
