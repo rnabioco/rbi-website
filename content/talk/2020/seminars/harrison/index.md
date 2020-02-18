@@ -8,6 +8,6 @@ event: Melissa Harrison, PhD (Univ Wisconson)
 featured: false
 location: CU Anschutz RC1 South 9th floor conference room
 tags: ['Seminar']
-title: Melissa Harrison, PhD (Univ Wisconson)
+title: Melissa Harrison, PhD (Univ Wisconsin)
 ---
 Hosts: Reis / Gillette 
