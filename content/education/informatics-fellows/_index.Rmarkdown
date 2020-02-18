@@ -58,7 +58,7 @@ Their training involves several important areas of bioinformatic collaboration:
 
 ## Former 
 
-1. **Austin Gillen, Ph.D.** did thesis work at Northwestern University with Ann Harris studying miRNA regulation of CFTR. Austin was in the program for `r time_length(today() - ymd(20170301), "years") %>% round(2)` years. Austin recently received a career development award from the Department of Veterans Affairs and works closely with the lab of Craig Jordan to understand heterogeneity in AML tumors.
+1. **Austin Gillen, Ph.D.** did thesis work at Northwestern University with Ann Harris studying miRNA regulation of CFTR. Austin was in the program for `r time_length(ymd(20200101) - ymd(20170301), "years") %>% round(2)` years. Austin recently received a career development award from the Department of Veterans Affairs and works closely with the lab of Craig Jordan to understand heterogeneity in AML tumors.
 
 # Projects
 
@@ -70,7 +70,7 @@ source("common.R")
 ```{r collabs, echo = FALSE, warn = FALSE}
 projects_collab <- filter(projects, rfa != "RBI Faculty" & rfa != "RBI Fellows")
 exp_collab <- select(projects_collab, exp.type, pi) %>%
-  unnest() %>%
+  unnest(cols = c(exp.type)) %>%
   count(exp.type, pi, sort = TRUE)
 ```
 
@@ -86,7 +86,7 @@ Figure \@ref(fig:types) summarizes the sources and types of projects analyzed by
 
 ```{r types, echo=FALSE, fig.cap="Project types and status. The majority of projects involve single-cell mRNA sequencing, alongside a variety of other RNA sequencing experiments."}
 exp.counts <- select(projects, exp.type, status) %>%
-  unnest() %>%
+  unnest(cols = c(exp.type)) %>%
   filter(!is.na(exp.type)) %>% 
   count(exp.type, status, sort = TRUE) %>%
   filter(n != 0)
@@ -140,7 +140,7 @@ The fellows have initiated several of their own projects in collaboration with t
 ```{r fellows_projects, layout="l-body-outset", echo=FALSE}
 projects %>%
   filter(rfa == "RBI Fellows") %>%
-  unnest() %>%
+  unnest(cols = c(exp.type, deliverable)) %>%
   select(desc, deliverable, status) %>%
   arrange(deliverable) %>%
   rename(Description = desc, Type = deliverable, Status = status) %>%
@@ -171,13 +171,13 @@ Collaborative projects with the Informatic Fellows are done through [RBI pilot a
 
 We also provide letters of support to investigators for their grant applications that detail the Informatics Fellows program and broader RNA sequencing capabilities on campus. Please contact <jay.hesselberth@gmail.com> for details. 
 
-The Informatics Fellows also provide office hours to provide help with programming, software, pipelines, and experimental design questions. Please see our [office hour page](office-hours.html) for additional details.
+The Informatics Fellows also provide office hours to provide help with programming, software, pipelines, and experimental design questions. Please see our [office hour page](/informatics-fellows/office-hours/) for additional details.
 
 # Education
 
 ## Outreach and mentoring
 
-The fellows hold weekly [RBI Office Hours](office-hours.html) on Thursday afternoons from 1:00-4:00 PM. Office hours allow investigators across campus to ask questions about the design, execution, and analysis of RNA-related sequencing experiments. The Office Hours have been instrumental in educating investigators across campus on the appropriate design, execution, and analysis of RNA sequencing experiments. 
+The fellows hold weekly [RBI Office Hours](/informatics-fellows/office-hours/) on Thursday afternoons from 1:00-4:00 PM. Office hours allow investigators across campus to ask questions about the design, execution, and analysis of RNA-related sequencing experiments. The Office Hours have been instrumental in educating investigators across campus on the appropriate design, execution, and analysis of RNA sequencing experiments. 
 
 The fellows mentor summer students as part of the [RBI Summer Internship Program](http://www.ucdenver.edu/academics/colleges/medicalschool/programs/rna/training/RBI-Summer-Internship-Program/Pages/default.aspx).
 

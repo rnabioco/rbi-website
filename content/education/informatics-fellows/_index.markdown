@@ -42,29 +42,25 @@ Their training involves several important areas of bioinformatic collaboration:
 
 ## Current
   
-1. **Kent Riemondy, Ph.D.** did thesis work at the University of Colorado Boulder with Rui Yi studying the role of miRNA biogenesis and targeting in skin. Kent has been in the program for 3.6 years.
+1. **Kent Riemondy, Ph.D.** did thesis work at the University of Colorado Boulder with Rui Yi studying the role of miRNA biogenesis and targeting in skin. Kent has been in the program for 3.61 years.
 
-1. **Rui Fu, Ph.D.** did thesis work at the University of California San Diego with Jens Lykke-Andersen studying the mechanism of nonsense-mediated mRNA decay. Rui has been in the program for 2.21 years.
+1. **Rui Fu, Ph.D.** did thesis work at the University of California San Diego with Jens Lykke-Andersen studying the mechanism of nonsense-mediated mRNA decay. Rui has been in the program for 2.22 years.
 
-1. **Ryan Sheridan, Ph.D.** did thesis work at the University of Colorado Anschtuz Medical Campus with David Bentley studying the role of backtracking in RNA Polymerase II proofreading. Ryan has been in the program for 11.54 months.
+1. **Ryan Sheridan, Ph.D.** did thesis work at the University of Colorado Anschtuz Medical Campus with David Bentley studying the role of backtracking in RNA Polymerase II proofreading. Ryan has been in the program for 11.64 months.
 
-1. **Caitlin Winkler, Ph.D.** did thesis work at the University of Colorado Anschtuz Medical Campus with Santos Franco studying the role of Asc1 in development of cortical neurons. Caitlin has been in the program for 0.46 months.
+1. **Caitlin Winkler, Ph.D.** did thesis work at the University of Colorado Anschtuz Medical Campus with Santos Franco studying the role of Asc1 in development of cortical neurons. Caitlin has been in the program for 0.56 months.
 
 1. **Tyler Matheny, Ph.D.** did thesis work at the University of Colorado Boulder with Roy Parker studying the impact of cytoplasmic bodies on mRNA processing. Tyler starts on March 1, 2020. 
 
 ## Former 
 
-1. **Austin Gillen, Ph.D.** did thesis work at Northwestern University with Ann Harris studying miRNA regulation of CFTR. Austin was in the program for 2.96 years. Austin recently received a career development award from the Department of Veterans Affairs and works closely with the lab of Craig Jordan to understand heterogeneity in AML tumors.
+1. **Austin Gillen, Ph.D.** did thesis work at Northwestern University with Ann Harris studying miRNA regulation of CFTR. Austin was in the program for 2.84 years. Austin recently received a career development award from the Department of Veterans Affairs and works closely with the lab of Craig Jordan to understand heterogeneity in AML tumors.
 
 # Projects
 
 
 
 
-```
-## Warning: `cols` is now required.
-## Please use `cols = c(exp.type)`
-```
 
 **The success of the Informatics Program can be measured in part by its impact on our collaborators' publications and grants.** Since the Program's inception in 2016, the Informatics Fellows have:
 
@@ -75,12 +71,6 @@ Their training involves several important areas of bioinformatic collaboration:
 + Contributed analyses to 14 NIH grant applications from investigators across campus.
 
 Figure <a href="#fig:types">1</a> summarizes the sources and types of projects analyzed by the Informatic Fellows.
-
-
-```
-## Warning: `cols` is now required.
-## Please use `cols = c(exp.type)`
-```
 
 <div class="figure">
 <img src="/education/informatics-fellows/_index_files/figure-html/types-1.png" alt="Project types and status. The majority of projects involve single-cell mRNA sequencing, alongside a variety of other RNA sequencing experiments." width="672" />
@@ -114,23 +104,20 @@ Figure <a href="#fig:rfa">2</a> summarizes the sources of RBI-funded projects th
 
 The fellows have initiated several of their own projects in collaboration with the [Hesselberth lab](https://hesselberthlab.org). These include software development (i.e., R packages for [genome interval analysis](https://valr.hesselberthlab.org) and for the analysis of [single-cell functional heterogeneity](https://scrunchy.hesselberthlab.org), new molecular methods focused on single-cell RNA-seq, and bioinformatics curriculum development.
 
-
-```
-## Warning: `cols` is now required.
-## Please use `cols = c(exp.type, deliverable)`
-```
-
 <!--html_preserve--><style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#upjdatlsnt .gt_table {
+#wnhyxwivqa .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
+  /* table.margin.left */
   margin-right: auto;
-  color: #000000;
+  /* table.margin.right */
+  color: #333333;
   font-size: 16px;
+  /* table.font.size */
   background-color: #FFFFFF;
   /* table.background.color */
   width: auto;
@@ -149,110 +136,162 @@ The fellows have initiated several of their own projects in collaboration with t
   /* table.border.bottom.color */
 }
 
-#upjdatlsnt .gt_heading {
+#wnhyxwivqa .gt_heading {
   background-color: #FFFFFF;
   /* heading.background.color */
   border-bottom-color: #FFFFFF;
+  /* table.background.color */
+  border-left-style: hidden;
+  /* heading.border.lr.style */
+  border-left-width: 1px;
+  /* heading.border.lr.width */
+  border-left-color: #D3D3D3;
+  /* heading.border.lr.color */
+  border-right-style: hidden;
+  /* heading.border.lr.style */
+  border-right-width: 1px;
+  /* heading.border.lr.width */
+  border-right-color: #D3D3D3;
+  /* heading.border.lr.color */
 }
 
-#upjdatlsnt .gt_title {
-  color: #000000;
+#wnhyxwivqa .gt_title {
+  color: #333333;
   font-size: 125%;
   /* heading.title.font.size */
+  font-weight: initial;
+  /* heading.title.font.weight */
   padding-top: 4px;
-  /* heading.top.padding */
+  /* heading.top.padding - not yet used */
   padding-bottom: 4px;
   border-bottom-color: #FFFFFF;
+  /* table.background.color */
   border-bottom-width: 0;
 }
 
-#upjdatlsnt .gt_subtitle {
-  color: #000000;
+#wnhyxwivqa .gt_subtitle {
+  color: #333333;
   font-size: 85%;
   /* heading.subtitle.font.size */
-  padding-top: 2px;
-  padding-bottom: 2px;
-  /* heading.bottom.padding */
+  font-weight: initial;
+  /* heading.subtitle.font.weight */
+  padding-top: 0;
+  padding-bottom: 4px;
+  /* heading.bottom.padding - not yet used */
   border-top-color: #FFFFFF;
+  /* table.background.color */
   border-top-width: 0;
 }
 
-#upjdatlsnt .gt_bottom_border {
+#wnhyxwivqa .gt_bottom_border {
   border-bottom-style: solid;
   /* heading.border.bottom.style */
   border-bottom-width: 2px;
   /* heading.border.bottom.width */
-  border-bottom-color: #A8A8A8;
+  border-bottom-color: #D3D3D3;
   /* heading.border.bottom.color */
 }
 
-#upjdatlsnt .gt_column_spanner {
+#wnhyxwivqa .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
-  border-bottom-color: #A8A8A8;
+  border-bottom-color: #D3D3D3;
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#upjdatlsnt .gt_col_heading {
-  color: #000000;
+#wnhyxwivqa .gt_col_headings {
+  border-top-style: solid;
+  /* column_labels.border.top.style */
+  border-top-width: 2px;
+  /* column_labels.border.top.width */
+  border-top-color: #D3D3D3;
+  /* column_labels.border.top.color */
+  border-bottom-style: solid;
+  /* column_labels.border.bottom.style */
+  border-bottom-width: 2px;
+  /* column_labels.border.bottom.width */
+  border-bottom-color: #D3D3D3;
+  /* column_labels.border.bottom.color */
+  border-left-style: none;
+  /* column_labels.border.lr.style */
+  border-left-width: 1px;
+  /* column_labels.border.lr.width */
+  border-left-color: #D3D3D3;
+  /* column_labels.border.lr.color */
+  border-right-style: none;
+  /* column_labels.border.lr.style */
+  border-right-width: 1px;
+  /* column_labels.border.lr.width */
+  border-right-color: #D3D3D3;
+  /* column_labels.border.lr.color */
+}
+
+#wnhyxwivqa .gt_col_heading {
+  color: #333333;
   background-color: #FFFFFF;
   /* column_labels.background.color */
-  font-size: 16px;
+  font-size: 100%;
   /* column_labels.font.size */
-  font-weight: initial;
+  font-weight: normal;
   /* column_labels.font.weight */
+  text-transform: inherit;
+  /* column_labels.text_transform */
   vertical-align: middle;
-  padding: 10px;
+  padding: 5px;
   margin: 10px;
+  overflow-x: hidden;
 }
 
-#upjdatlsnt .gt_columns_top_border {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #A8A8A8;
-}
-
-#upjdatlsnt .gt_columns_bottom_border {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #A8A8A8;
-}
-
-#upjdatlsnt .gt_sep_right {
+#wnhyxwivqa .gt_sep_right {
   border-right: 5px solid #FFFFFF;
 }
 
-#upjdatlsnt .gt_group_heading {
+#wnhyxwivqa .gt_group_heading {
   padding: 8px;
-  color: #000000;
+  /* row_group.padding */
+  color: #333333;
   background-color: #FFFFFF;
   /* row_group.background.color */
-  font-size: 16px;
+  font-size: 100%;
   /* row_group.font.size */
   font-weight: initial;
   /* row_group.font.weight */
+  text-transform: inherit;
+  /* row_group.text_transform */
   border-top-style: solid;
   /* row_group.border.top.style */
   border-top-width: 2px;
   /* row_group.border.top.width */
-  border-top-color: #A8A8A8;
+  border-top-color: #D3D3D3;
   /* row_group.border.top.color */
   border-bottom-style: solid;
   /* row_group.border.bottom.style */
   border-bottom-width: 2px;
   /* row_group.border.bottom.width */
-  border-bottom-color: #A8A8A8;
+  border-bottom-color: #D3D3D3;
   /* row_group.border.bottom.color */
+  border-left-style: none;
+  /* row_group.border.left.style */
+  border-left-width: 1px;
+  /* row_group.border.left.width */
+  border-left-color: #D3D3D3;
+  /* row_group.border.left.color */
+  border-right-style: none;
+  /* row_group.border.right.style */
+  border-right-width: 1px;
+  /* row_group.border.right.width */
+  border-right-color: #D3D3D3;
+  /* row_group.border.right.color */
   vertical-align: middle;
 }
 
-#upjdatlsnt .gt_empty_group_heading {
+#wnhyxwivqa .gt_empty_group_heading {
   padding: 0.5px;
-  color: #000000;
+  color: #333333;
   background-color: #FFFFFF;
   /* row_group.background.color */
-  font-size: 16px;
+  font-size: 100%;
   /* row_group.font.size */
   font-weight: initial;
   /* row_group.font.weight */
@@ -260,170 +299,264 @@ The fellows have initiated several of their own projects in collaboration with t
   /* row_group.border.top.style */
   border-top-width: 2px;
   /* row_group.border.top.width */
-  border-top-color: #A8A8A8;
+  border-top-color: #D3D3D3;
   /* row_group.border.top.color */
   border-bottom-style: solid;
   /* row_group.border.bottom.style */
   border-bottom-width: 2px;
   /* row_group.border.bottom.width */
-  border-bottom-color: #A8A8A8;
+  border-bottom-color: #D3D3D3;
   /* row_group.border.bottom.color */
   vertical-align: middle;
 }
 
-#upjdatlsnt .gt_striped {
-  background-color: #f2f2f2;
+#wnhyxwivqa .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+  /* row.striping.background_color */
 }
 
-#upjdatlsnt .gt_from_md > :first-child {
+#wnhyxwivqa .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#upjdatlsnt .gt_from_md > :last-child {
+#wnhyxwivqa .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#upjdatlsnt .gt_row {
-  padding: 8px;
-  /* row.padding */
+#wnhyxwivqa .gt_row {
+  padding-top: 8px;
+  /* data_row.padding */
+  padding-bottom: 8px;
+  /* data_row.padding */
+  padding-left: 5px;
+  padding-right: 5px;
   margin: 10px;
+  border-top-style: solid;
+  /* table_body.hlines.style */
+  border-top-width: 1px;
+  /* table_body.hlines.width */
+  border-top-color: #D3D3D3;
+  /* table_body.hlines.color */
+  border-left-style: none;
+  /* table_body.vlines.style */
+  border-left-width: 1px;
+  /* table_body.vlines.width */
+  border-left-color: #D3D3D3;
+  /* table_body.vlines.color */
+  border-right-style: none;
+  /* table_body.vlines.style */
+  border-right-width: 1px;
+  /* table_body.vlines.width */
+  border-right-color: #D3D3D3;
+  /* table_body.vlines.color */
   vertical-align: middle;
+  overflow-x: hidden;
 }
 
-#upjdatlsnt .gt_stub {
+#wnhyxwivqa .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  /* stub.background.color */
+  font-weight: initial;
+  /* stub.font.weight */
+  text-transform: inherit;
+  /* stub.text_transform */
   border-right-style: solid;
+  /* stub.border.style */
   border-right-width: 2px;
-  border-right-color: #A8A8A8;
+  /* stub.border.width */
+  border-right-color: #D3D3D3;
+  /* stub.border.color */
   padding-left: 12px;
 }
 
-#upjdatlsnt .gt_summary_row {
-  color: #000000;
+#wnhyxwivqa .gt_summary_row {
+  color: #333333;
   background-color: #FFFFFF;
   /* summary_row.background.color */
-  padding: 8px;
-  /* summary_row.padding */
   text-transform: inherit;
   /* summary_row.text_transform */
+  padding-top: 8px;
+  /* summary_row.padding */
+  padding-bottom: 8px;
+  /* summary_row.padding */
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
-#upjdatlsnt .gt_grand_summary_row {
-  color: #000000;
+#wnhyxwivqa .gt_first_summary_row {
+  padding-top: 8px;
+  /* summary_row.padding */
+  padding-bottom: 8px;
+  /* summary_row.padding */
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  /* summary_row.border.style */
+  border-top-width: 2px;
+  /* summary_row.border.width */
+  border-top-color: #D3D3D3;
+  /* summary_row.border.color */
+}
+
+#wnhyxwivqa .gt_grand_summary_row {
+  color: #333333;
   background-color: #FFFFFF;
   /* grand_summary_row.background.color */
-  padding: 8px;
-  /* grand_summary_row.padding */
   text-transform: inherit;
   /* grand_summary_row.text_transform */
+  padding-top: 8px;
+  /* grand_summary_row.padding */
+  padding-bottom: 8px;
+  /* grand_summary_row.padding */
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
-#upjdatlsnt .gt_first_summary_row {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #A8A8A8;
-}
-
-#upjdatlsnt .gt_first_grand_summary_row {
+#wnhyxwivqa .gt_first_grand_summary_row {
+  padding-top: 8px;
+  /* grand_summary_row.padding */
+  padding-bottom: 8px;
+  /* grand_summary_row.padding */
+  padding-left: 5px;
+  padding-right: 5px;
   border-top-style: double;
+  /* grand_summary_row.border.style */
   border-top-width: 6px;
-  border-top-color: #A8A8A8;
+  /* grand_summary_row.border.width */
+  border-top-color: #D3D3D3;
+  /* grand_summary_row.border.color */
 }
 
-#upjdatlsnt .gt_table_body {
+#wnhyxwivqa .gt_table_body {
   border-top-style: solid;
   /* table_body.border.top.style */
   border-top-width: 2px;
   /* table_body.border.top.width */
-  border-top-color: #A8A8A8;
+  border-top-color: #D3D3D3;
   /* table_body.border.top.color */
   border-bottom-style: solid;
   /* table_body.border.bottom.style */
   border-bottom-width: 2px;
   /* table_body.border.bottom.width */
-  border-bottom-color: #A8A8A8;
+  border-bottom-color: #D3D3D3;
   /* table_body.border.bottom.color */
 }
 
-#upjdatlsnt .gt_footnotes {
-  border-top-style: solid;
-  /* footnotes.border.top.style */
-  border-top-width: 2px;
-  /* footnotes.border.top.width */
-  border-top-color: #A8A8A8;
-  /* footnotes.border.top.color */
+#wnhyxwivqa .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  /* footnotes.background.color */
+  border-bottom-style: none;
+  /* footnotes.border.bottom.style */
+  border-bottom-width: 2px;
+  /* footnotes.border.bottom.width */
+  border-bottom-color: #D3D3D3;
+  /* footnotes.border.bottom.color */
+  border-left-style: none;
+  /* footnotes.border.lr.color */
+  border-left-width: 2px;
+  /* footnotes.border.lr.color */
+  border-left-color: #D3D3D3;
+  /* footnotes.border.lr.color */
+  border-right-style: none;
+  /* footnotes.border.lr.color */
+  border-right-width: 2px;
+  /* footnotes.border.lr.color */
+  border-right-color: #D3D3D3;
+  /* footnotes.border.lr.color */
 }
 
-#upjdatlsnt .gt_footnote {
-  font-size: 90%;
-  /* footnote.font.size */
+#wnhyxwivqa .gt_footnote {
   margin: 0px;
-  padding: 4px;
-  /* footnote.padding */
-}
-
-#upjdatlsnt .gt_sourcenotes {
-  border-top-style: solid;
-  /* sourcenotes.border.top.style */
-  border-top-width: 2px;
-  /* sourcenotes.border.top.width */
-  border-top-color: #A8A8A8;
-  /* sourcenotes.border.top.color */
-}
-
-#upjdatlsnt .gt_sourcenote {
   font-size: 90%;
-  /* sourcenote.font.size */
+  /* footnotes.font.size */
   padding: 4px;
-  /* sourcenote.padding */
+  /* footnotes.padding */
 }
 
-#upjdatlsnt .gt_center {
-  text-align: center;
+#wnhyxwivqa .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  /* source_notes.background.color */
+  border-bottom-style: none;
+  /* source_notes.border.bottom.style */
+  border-bottom-width: 2px;
+  /* source_notes.border.bottom.width */
+  border-bottom-color: #D3D3D3;
+  /* source_notes.border.bottom.color */
+  border-left-style: none;
+  /* source_notes.border.lr.style */
+  border-left-width: 2px;
+  /* source_notes.border.lr.style */
+  border-left-color: #D3D3D3;
+  /* source_notes.border.lr.style */
+  border-right-style: none;
+  /* source_notes.border.lr.style */
+  border-right-width: 2px;
+  /* source_notes.border.lr.style */
+  border-right-color: #D3D3D3;
+  /* source_notes.border.lr.style */
 }
 
-#upjdatlsnt .gt_left {
+#wnhyxwivqa .gt_sourcenote {
+  font-size: 90%;
+  /* source_notes.font.size */
+  padding: 4px;
+  /* source_notes.padding */
+}
+
+#wnhyxwivqa .gt_left {
   text-align: left;
 }
 
-#upjdatlsnt .gt_right {
+#wnhyxwivqa .gt_center {
+  text-align: center;
+}
+
+#wnhyxwivqa .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#upjdatlsnt .gt_font_normal {
+#wnhyxwivqa .gt_font_normal {
   font-weight: normal;
 }
 
-#upjdatlsnt .gt_font_bold {
+#wnhyxwivqa .gt_font_bold {
   font-weight: bold;
 }
 
-#upjdatlsnt .gt_font_italic {
+#wnhyxwivqa .gt_font_italic {
   font-style: italic;
 }
 
-#upjdatlsnt .gt_super {
+#wnhyxwivqa .gt_super {
   font-size: 65%;
 }
 
-#upjdatlsnt .gt_footnote_glyph {
+#wnhyxwivqa .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 </style>
-<div id="upjdatlsnt" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
-  <thead>
+<div id="wnhyxwivqa" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
+  <thead class="gt_header">
     <tr>
-      <th colspan="3" class="gt_heading gt_title gt_font_normal gt_center gt_bottom_border" style>Fellow-initiated Internal Projects</th>
+      <th colspan="3" class="gt_heading gt_title gt_font_normal gt_center" style>Fellow-initiated Internal Projects</th>
     </tr>
-    
+    <tr>
+      <th colspan="3" class="gt_heading gt_subtitle gt_font_normal gt_center gt_bottom_border" style></th>
+    </tr>
   </thead>
-  <tr>
-    <th class="gt_col_heading gt_columns_bottom_border gt_columns_top_border gt_left" rowspan="1" colspan="1">Description</th>
-    <th class="gt_col_heading gt_columns_bottom_border gt_columns_top_border gt_left" rowspan="1" colspan="1">Type</th>
-    <th class="gt_col_heading gt_columns_bottom_border gt_columns_top_border gt_center" rowspan="1" colspan="1">Status</th>
-  </tr>
-  <body class="gt_table_body">
+  <thead class="gt_col_headings">
+    <tr>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Description</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Type</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1">Status</th>
+    </tr>
+  </thead>
+  <tbody class="gt_table_body">
     <tr>
       <td class="gt_row gt_left">single cell PAS-Seq analysis</td>
       <td class="gt_row gt_left">Method Development</td>
@@ -479,7 +612,7 @@ The fellows have initiated several of their own projects in collaboration with t
       <td class="gt_row gt_left">Teaching</td>
       <td class="gt_row gt_center">initiated</td>
     </tr>
-  </body>
+  </tbody>
   
   
 </table></div><!--/html_preserve-->
@@ -492,13 +625,16 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#mqyyjfukwp .gt_table {
+#kuuzijizgr .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
+  /* table.margin.left */
   margin-right: auto;
-  color: #000000;
+  /* table.margin.right */
+  color: #333333;
   font-size: 16px;
+  /* table.font.size */
   background-color: #FFFFFF;
   /* table.background.color */
   width: auto;
@@ -517,110 +653,162 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   /* table.border.bottom.color */
 }
 
-#mqyyjfukwp .gt_heading {
+#kuuzijizgr .gt_heading {
   background-color: #FFFFFF;
   /* heading.background.color */
   border-bottom-color: #FFFFFF;
+  /* table.background.color */
+  border-left-style: hidden;
+  /* heading.border.lr.style */
+  border-left-width: 1px;
+  /* heading.border.lr.width */
+  border-left-color: #D3D3D3;
+  /* heading.border.lr.color */
+  border-right-style: hidden;
+  /* heading.border.lr.style */
+  border-right-width: 1px;
+  /* heading.border.lr.width */
+  border-right-color: #D3D3D3;
+  /* heading.border.lr.color */
 }
 
-#mqyyjfukwp .gt_title {
-  color: #000000;
+#kuuzijizgr .gt_title {
+  color: #333333;
   font-size: 125%;
   /* heading.title.font.size */
+  font-weight: initial;
+  /* heading.title.font.weight */
   padding-top: 4px;
-  /* heading.top.padding */
+  /* heading.top.padding - not yet used */
   padding-bottom: 4px;
   border-bottom-color: #FFFFFF;
+  /* table.background.color */
   border-bottom-width: 0;
 }
 
-#mqyyjfukwp .gt_subtitle {
-  color: #000000;
+#kuuzijizgr .gt_subtitle {
+  color: #333333;
   font-size: 85%;
   /* heading.subtitle.font.size */
-  padding-top: 2px;
-  padding-bottom: 2px;
-  /* heading.bottom.padding */
+  font-weight: initial;
+  /* heading.subtitle.font.weight */
+  padding-top: 0;
+  padding-bottom: 4px;
+  /* heading.bottom.padding - not yet used */
   border-top-color: #FFFFFF;
+  /* table.background.color */
   border-top-width: 0;
 }
 
-#mqyyjfukwp .gt_bottom_border {
+#kuuzijizgr .gt_bottom_border {
   border-bottom-style: solid;
   /* heading.border.bottom.style */
   border-bottom-width: 2px;
   /* heading.border.bottom.width */
-  border-bottom-color: #A8A8A8;
+  border-bottom-color: #D3D3D3;
   /* heading.border.bottom.color */
 }
 
-#mqyyjfukwp .gt_column_spanner {
+#kuuzijizgr .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
-  border-bottom-color: #A8A8A8;
+  border-bottom-color: #D3D3D3;
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#mqyyjfukwp .gt_col_heading {
-  color: #000000;
+#kuuzijizgr .gt_col_headings {
+  border-top-style: solid;
+  /* column_labels.border.top.style */
+  border-top-width: 2px;
+  /* column_labels.border.top.width */
+  border-top-color: #D3D3D3;
+  /* column_labels.border.top.color */
+  border-bottom-style: solid;
+  /* column_labels.border.bottom.style */
+  border-bottom-width: 2px;
+  /* column_labels.border.bottom.width */
+  border-bottom-color: #D3D3D3;
+  /* column_labels.border.bottom.color */
+  border-left-style: none;
+  /* column_labels.border.lr.style */
+  border-left-width: 1px;
+  /* column_labels.border.lr.width */
+  border-left-color: #D3D3D3;
+  /* column_labels.border.lr.color */
+  border-right-style: none;
+  /* column_labels.border.lr.style */
+  border-right-width: 1px;
+  /* column_labels.border.lr.width */
+  border-right-color: #D3D3D3;
+  /* column_labels.border.lr.color */
+}
+
+#kuuzijizgr .gt_col_heading {
+  color: #333333;
   background-color: #FFFFFF;
   /* column_labels.background.color */
-  font-size: 16px;
+  font-size: 100%;
   /* column_labels.font.size */
-  font-weight: initial;
+  font-weight: normal;
   /* column_labels.font.weight */
+  text-transform: inherit;
+  /* column_labels.text_transform */
   vertical-align: middle;
-  padding: 10px;
+  padding: 5px;
   margin: 10px;
+  overflow-x: hidden;
 }
 
-#mqyyjfukwp .gt_columns_top_border {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #A8A8A8;
-}
-
-#mqyyjfukwp .gt_columns_bottom_border {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #A8A8A8;
-}
-
-#mqyyjfukwp .gt_sep_right {
+#kuuzijizgr .gt_sep_right {
   border-right: 5px solid #FFFFFF;
 }
 
-#mqyyjfukwp .gt_group_heading {
+#kuuzijizgr .gt_group_heading {
   padding: 8px;
-  color: #000000;
+  /* row_group.padding */
+  color: #333333;
   background-color: #FFFFFF;
   /* row_group.background.color */
-  font-size: 16px;
+  font-size: 100%;
   /* row_group.font.size */
   font-weight: initial;
   /* row_group.font.weight */
+  text-transform: inherit;
+  /* row_group.text_transform */
   border-top-style: solid;
   /* row_group.border.top.style */
   border-top-width: 2px;
   /* row_group.border.top.width */
-  border-top-color: #A8A8A8;
+  border-top-color: #D3D3D3;
   /* row_group.border.top.color */
   border-bottom-style: solid;
   /* row_group.border.bottom.style */
   border-bottom-width: 2px;
   /* row_group.border.bottom.width */
-  border-bottom-color: #A8A8A8;
+  border-bottom-color: #D3D3D3;
   /* row_group.border.bottom.color */
+  border-left-style: none;
+  /* row_group.border.left.style */
+  border-left-width: 1px;
+  /* row_group.border.left.width */
+  border-left-color: #D3D3D3;
+  /* row_group.border.left.color */
+  border-right-style: none;
+  /* row_group.border.right.style */
+  border-right-width: 1px;
+  /* row_group.border.right.width */
+  border-right-color: #D3D3D3;
+  /* row_group.border.right.color */
   vertical-align: middle;
 }
 
-#mqyyjfukwp .gt_empty_group_heading {
+#kuuzijizgr .gt_empty_group_heading {
   padding: 0.5px;
-  color: #000000;
+  color: #333333;
   background-color: #FFFFFF;
   /* row_group.background.color */
-  font-size: 16px;
+  font-size: 100%;
   /* row_group.font.size */
   font-weight: initial;
   /* row_group.font.weight */
@@ -628,169 +816,263 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   /* row_group.border.top.style */
   border-top-width: 2px;
   /* row_group.border.top.width */
-  border-top-color: #A8A8A8;
+  border-top-color: #D3D3D3;
   /* row_group.border.top.color */
   border-bottom-style: solid;
   /* row_group.border.bottom.style */
   border-bottom-width: 2px;
   /* row_group.border.bottom.width */
-  border-bottom-color: #A8A8A8;
+  border-bottom-color: #D3D3D3;
   /* row_group.border.bottom.color */
   vertical-align: middle;
 }
 
-#mqyyjfukwp .gt_striped {
-  background-color: #f2f2f2;
+#kuuzijizgr .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+  /* row.striping.background_color */
 }
 
-#mqyyjfukwp .gt_from_md > :first-child {
+#kuuzijizgr .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#mqyyjfukwp .gt_from_md > :last-child {
+#kuuzijizgr .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#mqyyjfukwp .gt_row {
-  padding: 8px;
-  /* row.padding */
+#kuuzijizgr .gt_row {
+  padding-top: 8px;
+  /* data_row.padding */
+  padding-bottom: 8px;
+  /* data_row.padding */
+  padding-left: 5px;
+  padding-right: 5px;
   margin: 10px;
+  border-top-style: solid;
+  /* table_body.hlines.style */
+  border-top-width: 1px;
+  /* table_body.hlines.width */
+  border-top-color: #D3D3D3;
+  /* table_body.hlines.color */
+  border-left-style: none;
+  /* table_body.vlines.style */
+  border-left-width: 1px;
+  /* table_body.vlines.width */
+  border-left-color: #D3D3D3;
+  /* table_body.vlines.color */
+  border-right-style: none;
+  /* table_body.vlines.style */
+  border-right-width: 1px;
+  /* table_body.vlines.width */
+  border-right-color: #D3D3D3;
+  /* table_body.vlines.color */
   vertical-align: middle;
+  overflow-x: hidden;
 }
 
-#mqyyjfukwp .gt_stub {
+#kuuzijizgr .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  /* stub.background.color */
+  font-weight: initial;
+  /* stub.font.weight */
+  text-transform: inherit;
+  /* stub.text_transform */
   border-right-style: solid;
+  /* stub.border.style */
   border-right-width: 2px;
-  border-right-color: #A8A8A8;
+  /* stub.border.width */
+  border-right-color: #D3D3D3;
+  /* stub.border.color */
   padding-left: 12px;
 }
 
-#mqyyjfukwp .gt_summary_row {
-  color: #000000;
+#kuuzijizgr .gt_summary_row {
+  color: #333333;
   background-color: #FFFFFF;
   /* summary_row.background.color */
-  padding: 8px;
-  /* summary_row.padding */
   text-transform: inherit;
   /* summary_row.text_transform */
+  padding-top: 8px;
+  /* summary_row.padding */
+  padding-bottom: 8px;
+  /* summary_row.padding */
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
-#mqyyjfukwp .gt_grand_summary_row {
-  color: #000000;
+#kuuzijizgr .gt_first_summary_row {
+  padding-top: 8px;
+  /* summary_row.padding */
+  padding-bottom: 8px;
+  /* summary_row.padding */
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  /* summary_row.border.style */
+  border-top-width: 2px;
+  /* summary_row.border.width */
+  border-top-color: #D3D3D3;
+  /* summary_row.border.color */
+}
+
+#kuuzijizgr .gt_grand_summary_row {
+  color: #333333;
   background-color: #FFFFFF;
   /* grand_summary_row.background.color */
-  padding: 8px;
-  /* grand_summary_row.padding */
   text-transform: inherit;
   /* grand_summary_row.text_transform */
+  padding-top: 8px;
+  /* grand_summary_row.padding */
+  padding-bottom: 8px;
+  /* grand_summary_row.padding */
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
-#mqyyjfukwp .gt_first_summary_row {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #A8A8A8;
-}
-
-#mqyyjfukwp .gt_first_grand_summary_row {
+#kuuzijizgr .gt_first_grand_summary_row {
+  padding-top: 8px;
+  /* grand_summary_row.padding */
+  padding-bottom: 8px;
+  /* grand_summary_row.padding */
+  padding-left: 5px;
+  padding-right: 5px;
   border-top-style: double;
+  /* grand_summary_row.border.style */
   border-top-width: 6px;
-  border-top-color: #A8A8A8;
+  /* grand_summary_row.border.width */
+  border-top-color: #D3D3D3;
+  /* grand_summary_row.border.color */
 }
 
-#mqyyjfukwp .gt_table_body {
+#kuuzijizgr .gt_table_body {
   border-top-style: solid;
   /* table_body.border.top.style */
   border-top-width: 2px;
   /* table_body.border.top.width */
-  border-top-color: #A8A8A8;
+  border-top-color: #D3D3D3;
   /* table_body.border.top.color */
   border-bottom-style: solid;
   /* table_body.border.bottom.style */
   border-bottom-width: 2px;
   /* table_body.border.bottom.width */
-  border-bottom-color: #A8A8A8;
+  border-bottom-color: #D3D3D3;
   /* table_body.border.bottom.color */
 }
 
-#mqyyjfukwp .gt_footnotes {
-  border-top-style: solid;
-  /* footnotes.border.top.style */
-  border-top-width: 2px;
-  /* footnotes.border.top.width */
-  border-top-color: #A8A8A8;
-  /* footnotes.border.top.color */
+#kuuzijizgr .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  /* footnotes.background.color */
+  border-bottom-style: none;
+  /* footnotes.border.bottom.style */
+  border-bottom-width: 2px;
+  /* footnotes.border.bottom.width */
+  border-bottom-color: #D3D3D3;
+  /* footnotes.border.bottom.color */
+  border-left-style: none;
+  /* footnotes.border.lr.color */
+  border-left-width: 2px;
+  /* footnotes.border.lr.color */
+  border-left-color: #D3D3D3;
+  /* footnotes.border.lr.color */
+  border-right-style: none;
+  /* footnotes.border.lr.color */
+  border-right-width: 2px;
+  /* footnotes.border.lr.color */
+  border-right-color: #D3D3D3;
+  /* footnotes.border.lr.color */
 }
 
-#mqyyjfukwp .gt_footnote {
-  font-size: 90%;
-  /* footnote.font.size */
+#kuuzijizgr .gt_footnote {
   margin: 0px;
-  padding: 4px;
-  /* footnote.padding */
-}
-
-#mqyyjfukwp .gt_sourcenotes {
-  border-top-style: solid;
-  /* sourcenotes.border.top.style */
-  border-top-width: 2px;
-  /* sourcenotes.border.top.width */
-  border-top-color: #A8A8A8;
-  /* sourcenotes.border.top.color */
-}
-
-#mqyyjfukwp .gt_sourcenote {
   font-size: 90%;
-  /* sourcenote.font.size */
+  /* footnotes.font.size */
   padding: 4px;
-  /* sourcenote.padding */
+  /* footnotes.padding */
 }
 
-#mqyyjfukwp .gt_center {
-  text-align: center;
+#kuuzijizgr .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  /* source_notes.background.color */
+  border-bottom-style: none;
+  /* source_notes.border.bottom.style */
+  border-bottom-width: 2px;
+  /* source_notes.border.bottom.width */
+  border-bottom-color: #D3D3D3;
+  /* source_notes.border.bottom.color */
+  border-left-style: none;
+  /* source_notes.border.lr.style */
+  border-left-width: 2px;
+  /* source_notes.border.lr.style */
+  border-left-color: #D3D3D3;
+  /* source_notes.border.lr.style */
+  border-right-style: none;
+  /* source_notes.border.lr.style */
+  border-right-width: 2px;
+  /* source_notes.border.lr.style */
+  border-right-color: #D3D3D3;
+  /* source_notes.border.lr.style */
 }
 
-#mqyyjfukwp .gt_left {
+#kuuzijizgr .gt_sourcenote {
+  font-size: 90%;
+  /* source_notes.font.size */
+  padding: 4px;
+  /* source_notes.padding */
+}
+
+#kuuzijizgr .gt_left {
   text-align: left;
 }
 
-#mqyyjfukwp .gt_right {
+#kuuzijizgr .gt_center {
+  text-align: center;
+}
+
+#kuuzijizgr .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#mqyyjfukwp .gt_font_normal {
+#kuuzijizgr .gt_font_normal {
   font-weight: normal;
 }
 
-#mqyyjfukwp .gt_font_bold {
+#kuuzijizgr .gt_font_bold {
   font-weight: bold;
 }
 
-#mqyyjfukwp .gt_font_italic {
+#kuuzijizgr .gt_font_italic {
   font-style: italic;
 }
 
-#mqyyjfukwp .gt_super {
+#kuuzijizgr .gt_super {
   font-size: 65%;
 }
 
-#mqyyjfukwp .gt_footnote_glyph {
+#kuuzijizgr .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 </style>
-<div id="mqyyjfukwp" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
-  <thead>
+<div id="kuuzijizgr" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
+  <thead class="gt_header">
     <tr>
-      <th colspan="2" class="gt_heading gt_title gt_font_normal gt_center gt_bottom_border" style>Collaborative Projects with RBI Faculty Hires</th>
+      <th colspan="2" class="gt_heading gt_title gt_font_normal gt_center" style>Collaborative Projects with RBI Faculty Hires</th>
     </tr>
-    
+    <tr>
+      <th colspan="2" class="gt_heading gt_subtitle gt_font_normal gt_center gt_bottom_border" style></th>
+    </tr>
   </thead>
-  <tr>
-    <th class="gt_col_heading gt_columns_bottom_border gt_columns_top_border gt_left" rowspan="1" colspan="1">PI</th>
-    <th class="gt_col_heading gt_columns_bottom_border gt_columns_top_border gt_left" rowspan="1" colspan="1">Description</th>
-  </tr>
-  <body class="gt_table_body">
+  <thead class="gt_col_headings">
+    <tr>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">PI</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Description</th>
+    </tr>
+  </thead>
+  <tbody class="gt_table_body">
     <tr>
       <td class="gt_row gt_left">Jagannathan</td>
       <td class="gt_row gt_left">Escape from NMD in the 1000 genomes dataset</td>
@@ -811,7 +1093,7 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
       <td class="gt_row gt_left">Taliaferro</td>
       <td class="gt_row gt_left">Patterns and mechanisms of 3' end variations in human cancers</td>
     </tr>
-  </body>
+  </tbody>
   
   
 </table></div><!--/html_preserve-->
@@ -823,13 +1105,13 @@ Collaborative projects with the Informatic Fellows are done through [RBI pilot a
 
 We also provide letters of support to investigators for their grant applications that detail the Informatics Fellows program and broader RNA sequencing capabilities on campus. Please contact <jay.hesselberth@gmail.com> for details. 
 
-The Informatics Fellows also provide office hours to provide help with programming, software, pipelines, and experimental design questions. Please see our [office hour page](office-hours.html) for additional details.
+The Informatics Fellows also provide office hours to provide help with programming, software, pipelines, and experimental design questions. Please see our [office hour page](/informatics-fellows/office-hours/) for additional details.
 
 # Education
 
 ## Outreach and mentoring
 
-The fellows hold weekly [RBI Office Hours](office-hours.html) on Thursday afternoons from 1:00-4:00 PM. Office hours allow investigators across campus to ask questions about the design, execution, and analysis of RNA-related sequencing experiments. The Office Hours have been instrumental in educating investigators across campus on the appropriate design, execution, and analysis of RNA sequencing experiments. 
+The fellows hold weekly [RBI Office Hours](/informatics-fellows/office-hours/) on Thursday afternoons from 1:00-4:00 PM. Office hours allow investigators across campus to ask questions about the design, execution, and analysis of RNA-related sequencing experiments. The Office Hours have been instrumental in educating investigators across campus on the appropriate design, execution, and analysis of RNA sequencing experiments. 
 
 The fellows mentor summer students as part of the [RBI Summer Internship Program](http://www.ucdenver.edu/academics/colleges/medicalschool/programs/rna/training/RBI-Summer-Internship-Program/Pages/default.aspx).
 
