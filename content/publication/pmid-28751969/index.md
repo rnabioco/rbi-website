@@ -7,6 +7,7 @@ publication_types: ["2"]
 abstract: "New tools for reproducible exploratory data analysis of large datasets are important to address the rising size and complexity of genomic data. We developed the valr R package to enable flexible and efficient genomic interval analysis. valr leverages new tools available in the \"tidyverse\", including dplyr. Benchmarks of valr show it performs similar to BEDtools and can be used for interactive analyses and incorporated into existing analysis pipelines."
 featured: false
 publication: "*F1000Res*"
+tags: ["fellows"]
 links:
   - icon_pack: fas
     icon: graduation-cap

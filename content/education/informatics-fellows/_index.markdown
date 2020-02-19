@@ -46,9 +46,9 @@ Their training involves several important areas of bioinformatic collaboration:
 
 1. **Rui Fu, Ph.D.** did thesis work at the University of California San Diego with Jens Lykke-Andersen studying the mechanism of nonsense-mediated mRNA decay. Rui has been in the program for 2.22 years.
 
-1. **Ryan Sheridan, Ph.D.** did thesis work at the University of Colorado Anschtuz Medical Campus with David Bentley studying the role of backtracking in RNA Polymerase II proofreading. Ryan has been in the program for 11.64 months.
+1. **Ryan Sheridan, Ph.D.** did thesis work at the University of Colorado Anschtuz Medical Campus with David Bentley studying the role of backtracking in RNA Polymerase II proofreading. Ryan has been in the program for 11.67 months.
 
-1. **Caitlin Winkler, Ph.D.** did thesis work at the University of Colorado Anschtuz Medical Campus with Santos Franco studying the role of Asc1 in development of cortical neurons. Caitlin has been in the program for 0.56 months.
+1. **Caitlin Winkler, Ph.D.** did thesis work at the University of Colorado Anschtuz Medical Campus with Santos Franco studying the role of Asc1 in development of cortical neurons. Caitlin has been in the program for 0.59 months.
 
 1. **Tyler Matheny, Ph.D.** did thesis work at the University of Colorado Boulder with Roy Parker studying the impact of cytoplasmic bodies on mRNA processing. Tyler starts on March 1, 2020. 
 
@@ -66,7 +66,7 @@ Their training involves several important areas of bioinformatic collaboration:
 
 + Initiated 118 projects among 84 unique investigators. 
 
-+ Completed 56 projects, leading to a total of 9 [publications](publications.html), with another 5 actively in preparation. 
++ Completed 56 projects, leading to a total of 9 [publications](/informatics-fellows/publications), with another 5 actively in preparation. 
 
 + Contributed analyses to 14 NIH grant applications from investigators across campus.
 
@@ -108,7 +108,7 @@ The fellows have initiated several of their own projects in collaboration with t
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#wnhyxwivqa .gt_table {
+#bymxqkggpk .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -136,7 +136,7 @@ The fellows have initiated several of their own projects in collaboration with t
   /* table.border.bottom.color */
 }
 
-#wnhyxwivqa .gt_heading {
+#bymxqkggpk .gt_heading {
   background-color: #FFFFFF;
   /* heading.background.color */
   border-bottom-color: #FFFFFF;
@@ -155,7 +155,7 @@ The fellows have initiated several of their own projects in collaboration with t
   /* heading.border.lr.color */
 }
 
-#wnhyxwivqa .gt_title {
+#bymxqkggpk .gt_title {
   color: #333333;
   font-size: 125%;
   /* heading.title.font.size */
@@ -169,7 +169,7 @@ The fellows have initiated several of their own projects in collaboration with t
   border-bottom-width: 0;
 }
 
-#wnhyxwivqa .gt_subtitle {
+#bymxqkggpk .gt_subtitle {
   color: #333333;
   font-size: 85%;
   /* heading.subtitle.font.size */
@@ -183,7 +183,7 @@ The fellows have initiated several of their own projects in collaboration with t
   border-top-width: 0;
 }
 
-#wnhyxwivqa .gt_bottom_border {
+#bymxqkggpk .gt_bottom_border {
   border-bottom-style: solid;
   /* heading.border.bottom.style */
   border-bottom-width: 2px;
@@ -192,7 +192,7 @@ The fellows have initiated several of their own projects in collaboration with t
   /* heading.border.bottom.color */
 }
 
-#wnhyxwivqa .gt_column_spanner {
+#bymxqkggpk .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -200,7 +200,7 @@ The fellows have initiated several of their own projects in collaboration with t
   padding-bottom: 4px;
 }
 
-#wnhyxwivqa .gt_col_headings {
+#bymxqkggpk .gt_col_headings {
   border-top-style: solid;
   /* column_labels.border.top.style */
   border-top-width: 2px;
@@ -227,7 +227,7 @@ The fellows have initiated several of their own projects in collaboration with t
   /* column_labels.border.lr.color */
 }
 
-#wnhyxwivqa .gt_col_heading {
+#bymxqkggpk .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   /* column_labels.background.color */
@@ -243,11 +243,11 @@ The fellows have initiated several of their own projects in collaboration with t
   overflow-x: hidden;
 }
 
-#wnhyxwivqa .gt_sep_right {
+#bymxqkggpk .gt_sep_right {
   border-right: 5px solid #FFFFFF;
 }
 
-#wnhyxwivqa .gt_group_heading {
+#bymxqkggpk .gt_group_heading {
   padding: 8px;
   /* row_group.padding */
   color: #333333;
@@ -286,7 +286,7 @@ The fellows have initiated several of their own projects in collaboration with t
   vertical-align: middle;
 }
 
-#wnhyxwivqa .gt_empty_group_heading {
+#bymxqkggpk .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -310,20 +310,20 @@ The fellows have initiated several of their own projects in collaboration with t
   vertical-align: middle;
 }
 
-#wnhyxwivqa .gt_striped {
+#bymxqkggpk .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
   /* row.striping.background_color */
 }
 
-#wnhyxwivqa .gt_from_md > :first-child {
+#bymxqkggpk .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#wnhyxwivqa .gt_from_md > :last-child {
+#bymxqkggpk .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#wnhyxwivqa .gt_row {
+#bymxqkggpk .gt_row {
   padding-top: 8px;
   /* data_row.padding */
   padding-bottom: 8px;
@@ -353,7 +353,7 @@ The fellows have initiated several of their own projects in collaboration with t
   overflow-x: hidden;
 }
 
-#wnhyxwivqa .gt_stub {
+#bymxqkggpk .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   /* stub.background.color */
@@ -370,7 +370,7 @@ The fellows have initiated several of their own projects in collaboration with t
   padding-left: 12px;
 }
 
-#wnhyxwivqa .gt_summary_row {
+#bymxqkggpk .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   /* summary_row.background.color */
@@ -384,7 +384,7 @@ The fellows have initiated several of their own projects in collaboration with t
   padding-right: 5px;
 }
 
-#wnhyxwivqa .gt_first_summary_row {
+#bymxqkggpk .gt_first_summary_row {
   padding-top: 8px;
   /* summary_row.padding */
   padding-bottom: 8px;
@@ -399,7 +399,7 @@ The fellows have initiated several of their own projects in collaboration with t
   /* summary_row.border.color */
 }
 
-#wnhyxwivqa .gt_grand_summary_row {
+#bymxqkggpk .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   /* grand_summary_row.background.color */
@@ -413,7 +413,7 @@ The fellows have initiated several of their own projects in collaboration with t
   padding-right: 5px;
 }
 
-#wnhyxwivqa .gt_first_grand_summary_row {
+#bymxqkggpk .gt_first_grand_summary_row {
   padding-top: 8px;
   /* grand_summary_row.padding */
   padding-bottom: 8px;
@@ -428,7 +428,7 @@ The fellows have initiated several of their own projects in collaboration with t
   /* grand_summary_row.border.color */
 }
 
-#wnhyxwivqa .gt_table_body {
+#bymxqkggpk .gt_table_body {
   border-top-style: solid;
   /* table_body.border.top.style */
   border-top-width: 2px;
@@ -443,7 +443,7 @@ The fellows have initiated several of their own projects in collaboration with t
   /* table_body.border.bottom.color */
 }
 
-#wnhyxwivqa .gt_footnotes {
+#bymxqkggpk .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   /* footnotes.background.color */
@@ -467,7 +467,7 @@ The fellows have initiated several of their own projects in collaboration with t
   /* footnotes.border.lr.color */
 }
 
-#wnhyxwivqa .gt_footnote {
+#bymxqkggpk .gt_footnote {
   margin: 0px;
   font-size: 90%;
   /* footnotes.font.size */
@@ -475,7 +475,7 @@ The fellows have initiated several of their own projects in collaboration with t
   /* footnotes.padding */
 }
 
-#wnhyxwivqa .gt_sourcenotes {
+#bymxqkggpk .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   /* source_notes.background.color */
@@ -499,48 +499,48 @@ The fellows have initiated several of their own projects in collaboration with t
   /* source_notes.border.lr.style */
 }
 
-#wnhyxwivqa .gt_sourcenote {
+#bymxqkggpk .gt_sourcenote {
   font-size: 90%;
   /* source_notes.font.size */
   padding: 4px;
   /* source_notes.padding */
 }
 
-#wnhyxwivqa .gt_left {
+#bymxqkggpk .gt_left {
   text-align: left;
 }
 
-#wnhyxwivqa .gt_center {
+#bymxqkggpk .gt_center {
   text-align: center;
 }
 
-#wnhyxwivqa .gt_right {
+#bymxqkggpk .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#wnhyxwivqa .gt_font_normal {
+#bymxqkggpk .gt_font_normal {
   font-weight: normal;
 }
 
-#wnhyxwivqa .gt_font_bold {
+#bymxqkggpk .gt_font_bold {
   font-weight: bold;
 }
 
-#wnhyxwivqa .gt_font_italic {
+#bymxqkggpk .gt_font_italic {
   font-style: italic;
 }
 
-#wnhyxwivqa .gt_super {
+#bymxqkggpk .gt_super {
   font-size: 65%;
 }
 
-#wnhyxwivqa .gt_footnote_marks {
+#bymxqkggpk .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 </style>
-<div id="wnhyxwivqa" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
+<div id="bymxqkggpk" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
   <thead class="gt_header">
     <tr>
       <th colspan="3" class="gt_heading gt_title gt_font_normal gt_center" style>Fellow-initiated Internal Projects</th>
@@ -625,7 +625,7 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#kuuzijizgr .gt_table {
+#pinspgkfsx .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -653,7 +653,7 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   /* table.border.bottom.color */
 }
 
-#kuuzijizgr .gt_heading {
+#pinspgkfsx .gt_heading {
   background-color: #FFFFFF;
   /* heading.background.color */
   border-bottom-color: #FFFFFF;
@@ -672,7 +672,7 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   /* heading.border.lr.color */
 }
 
-#kuuzijizgr .gt_title {
+#pinspgkfsx .gt_title {
   color: #333333;
   font-size: 125%;
   /* heading.title.font.size */
@@ -686,7 +686,7 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   border-bottom-width: 0;
 }
 
-#kuuzijizgr .gt_subtitle {
+#pinspgkfsx .gt_subtitle {
   color: #333333;
   font-size: 85%;
   /* heading.subtitle.font.size */
@@ -700,7 +700,7 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   border-top-width: 0;
 }
 
-#kuuzijizgr .gt_bottom_border {
+#pinspgkfsx .gt_bottom_border {
   border-bottom-style: solid;
   /* heading.border.bottom.style */
   border-bottom-width: 2px;
@@ -709,7 +709,7 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   /* heading.border.bottom.color */
 }
 
-#kuuzijizgr .gt_column_spanner {
+#pinspgkfsx .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -717,7 +717,7 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   padding-bottom: 4px;
 }
 
-#kuuzijizgr .gt_col_headings {
+#pinspgkfsx .gt_col_headings {
   border-top-style: solid;
   /* column_labels.border.top.style */
   border-top-width: 2px;
@@ -744,7 +744,7 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   /* column_labels.border.lr.color */
 }
 
-#kuuzijizgr .gt_col_heading {
+#pinspgkfsx .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   /* column_labels.background.color */
@@ -760,11 +760,11 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   overflow-x: hidden;
 }
 
-#kuuzijizgr .gt_sep_right {
+#pinspgkfsx .gt_sep_right {
   border-right: 5px solid #FFFFFF;
 }
 
-#kuuzijizgr .gt_group_heading {
+#pinspgkfsx .gt_group_heading {
   padding: 8px;
   /* row_group.padding */
   color: #333333;
@@ -803,7 +803,7 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   vertical-align: middle;
 }
 
-#kuuzijizgr .gt_empty_group_heading {
+#pinspgkfsx .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -827,20 +827,20 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   vertical-align: middle;
 }
 
-#kuuzijizgr .gt_striped {
+#pinspgkfsx .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
   /* row.striping.background_color */
 }
 
-#kuuzijizgr .gt_from_md > :first-child {
+#pinspgkfsx .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#kuuzijizgr .gt_from_md > :last-child {
+#pinspgkfsx .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#kuuzijizgr .gt_row {
+#pinspgkfsx .gt_row {
   padding-top: 8px;
   /* data_row.padding */
   padding-bottom: 8px;
@@ -870,7 +870,7 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   overflow-x: hidden;
 }
 
-#kuuzijizgr .gt_stub {
+#pinspgkfsx .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   /* stub.background.color */
@@ -887,7 +887,7 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   padding-left: 12px;
 }
 
-#kuuzijizgr .gt_summary_row {
+#pinspgkfsx .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   /* summary_row.background.color */
@@ -901,7 +901,7 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   padding-right: 5px;
 }
 
-#kuuzijizgr .gt_first_summary_row {
+#pinspgkfsx .gt_first_summary_row {
   padding-top: 8px;
   /* summary_row.padding */
   padding-bottom: 8px;
@@ -916,7 +916,7 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   /* summary_row.border.color */
 }
 
-#kuuzijizgr .gt_grand_summary_row {
+#pinspgkfsx .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   /* grand_summary_row.background.color */
@@ -930,7 +930,7 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   padding-right: 5px;
 }
 
-#kuuzijizgr .gt_first_grand_summary_row {
+#pinspgkfsx .gt_first_grand_summary_row {
   padding-top: 8px;
   /* grand_summary_row.padding */
   padding-bottom: 8px;
@@ -945,7 +945,7 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   /* grand_summary_row.border.color */
 }
 
-#kuuzijizgr .gt_table_body {
+#pinspgkfsx .gt_table_body {
   border-top-style: solid;
   /* table_body.border.top.style */
   border-top-width: 2px;
@@ -960,7 +960,7 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   /* table_body.border.bottom.color */
 }
 
-#kuuzijizgr .gt_footnotes {
+#pinspgkfsx .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   /* footnotes.background.color */
@@ -984,7 +984,7 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   /* footnotes.border.lr.color */
 }
 
-#kuuzijizgr .gt_footnote {
+#pinspgkfsx .gt_footnote {
   margin: 0px;
   font-size: 90%;
   /* footnotes.font.size */
@@ -992,7 +992,7 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   /* footnotes.padding */
 }
 
-#kuuzijizgr .gt_sourcenotes {
+#pinspgkfsx .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   /* source_notes.background.color */
@@ -1016,48 +1016,48 @@ The [RBI faculty hires](http://www.ucdenver.edu/academics/colleges/medicalschool
   /* source_notes.border.lr.style */
 }
 
-#kuuzijizgr .gt_sourcenote {
+#pinspgkfsx .gt_sourcenote {
   font-size: 90%;
   /* source_notes.font.size */
   padding: 4px;
   /* source_notes.padding */
 }
 
-#kuuzijizgr .gt_left {
+#pinspgkfsx .gt_left {
   text-align: left;
 }
 
-#kuuzijizgr .gt_center {
+#pinspgkfsx .gt_center {
   text-align: center;
 }
 
-#kuuzijizgr .gt_right {
+#pinspgkfsx .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#kuuzijizgr .gt_font_normal {
+#pinspgkfsx .gt_font_normal {
   font-weight: normal;
 }
 
-#kuuzijizgr .gt_font_bold {
+#pinspgkfsx .gt_font_bold {
   font-weight: bold;
 }
 
-#kuuzijizgr .gt_font_italic {
+#pinspgkfsx .gt_font_italic {
   font-style: italic;
 }
 
-#kuuzijizgr .gt_super {
+#pinspgkfsx .gt_super {
   font-size: 65%;
 }
 
-#kuuzijizgr .gt_footnote_marks {
+#pinspgkfsx .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 </style>
-<div id="kuuzijizgr" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
+<div id="pinspgkfsx" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
   <thead class="gt_header">
     <tr>
       <th colspan="2" class="gt_heading gt_title gt_font_normal gt_center" style>Collaborative Projects with RBI Faculty Hires</th>

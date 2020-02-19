@@ -78,7 +78,7 @@ exp_collab <- select(projects_collab, exp.type, pi) %>%
 
 + Initiated `r nrow(projects)` projects among `r length(unique(projects$pi))` unique investigators. 
 
-+ Completed `r sum(projects$status == "completed")` projects, leading to a total of `r sum(projects$publication == "Published", na.rm = TRUE)` [publications](publications.html), with another `r sum(projects$publication == "In Prep", na.rm = TRUE)` actively in preparation. 
++ Completed `r sum(projects$status == "completed")` projects, leading to a total of `r sum(projects$publication == "Published", na.rm = TRUE)` [publications](/informatics-fellows/publications), with another `r sum(projects$publication == "In Prep", na.rm = TRUE)` actively in preparation. 
 
 + Contributed analyses to `r nrow(grants)` NIH grant applications from investigators across campus.
 
