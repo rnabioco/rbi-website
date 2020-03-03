@@ -14,6 +14,10 @@ profile: false
 ---
 
 {{% alert note %}}
+Detailed RFA is forthcoming.
+
+**Submit LOI information [using this form](https://forms.gle/CqmZH5g9aNAAqz2C8) by March 17, 2020.**
+
 **Pilot award applications will be due on April 15, 2020.**
 {{% /alert %}}
 
