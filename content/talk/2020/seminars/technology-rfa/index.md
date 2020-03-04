@@ -16,8 +16,6 @@ profile: false
 {{% alert note %}}
 Detailed RFA is forthcoming.
 
-**A video of the informational seminar is available [here](https://ucdenver.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4d983b62-b60a-459f-8c3c-ab73015a962a) using your CU Anschutz login.**
-
 **Submit LOI information [using this form](https://forms.gle/CqmZH5g9aNAAqz2C8) by March 17, 2020.**
 
 **Pilot award applications will be due on April 15, 2020.**
