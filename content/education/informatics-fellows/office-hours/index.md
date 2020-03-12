@@ -13,6 +13,9 @@ menu:
     weight: 1
 ---
 
+{{% alert note %}}
+Beginning the week of March 16, in-person office hours have been cancelled due to COVID-19. Please email <rbi.fellows@cuanschutz.edu> to schedule a remote consulation via Zoom or Skype.
+{{% /alert %}}
  
 *Bash*-ing your head?  
 *Python* suffocating you?  
