@@ -26,11 +26,11 @@ We have made a list of lab supplies that are needed by our local testing facilit
 
 Some supplies, such as RNA extraction kits, are specific to the eventual COVID-19 test used by our local public health facility. Other supplies, such as PPE, are not. Also, please note that although some supplies (such as RNA extraction kits) need to be an exact match, many (such as barrier tips) do not. We have noted these points next to each item. 
 
-### **Personal protective equipment.** 
+### Personal protective equipment
 
 Supplies of N95 masks, gowns, sleeves, and gloves at CDPHE are critically low.
 
-### **Filter tips.** 
+### Filter tips
 
 CDPHE is using large numbers of filter tips. They need donations of Tip One or similar filter tips.
 
@@ -47,7 +47,7 @@ These kits are in short supply and currently rate-limiting for testing:
 
 ## Lab Equipment 
 
-** TBD **
+** COMING SOON **
 
 ## Other ways to help
 
@@ -61,5 +61,6 @@ These kits are in short supply and currently rate-limiting for testing:
 
 ## Contact
 
+- Brian Kempf <BRIAN.KEMPF@cuanschutz.edu>
 - Olivia Rissland <olivia.rissland@cuanschutz.edu>
 - Jay Hesselberth <jay.hesselberth@cuanschutz.edu>
