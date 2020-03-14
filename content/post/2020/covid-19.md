@@ -34,7 +34,7 @@ Some supplies, such as RNA extraction kits, are specific to the eventual COVID-1
 
 -	**If you are CLIA-certified, please let us know.** In the upcoming weeks, extra, trained personnel will be needed to increase capacity. 
 
--	**Donate blood!** There has been drop in blood donations, and we are now at Level 2 shortage. If you are healthy, consider donating through [Vitalant](vitalant.org). Blood donations will be done with appropriate precautions to prevent COVID-19 spread.
+-	**Donate blood!** There has been drop in blood donations, and we are now at Level 2 shortage. If you are healthy, consider donating through [Vitalant](https://vitalant.org). Blood donations will be done with appropriate precautions to prevent COVID-19 spread.
 
 -	**Explain the situation to your friends and communicate how they should implement social distancing.** Write to local organizations (gyms, churches, etc.) to convince them to postpone gatherings. 
 
