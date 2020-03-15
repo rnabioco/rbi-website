@@ -33,7 +33,7 @@ Please fill out this [Google Form](https://forms.gle/kJLZNnPznXLq7SM76) with you
 
 ## Lab Supplies
 
-{{% alert note }}
+{{% alert note %}}
 The most current list of needed supplies is on this [Google Sheet](https://docs.google.com/spreadsheets/d/1kHaE2AnRYQj_91f5Lwq891R44S9v79KMXDu-G_VkP9M/edit#gid=161763722).
 {{% /alert %}}
 
