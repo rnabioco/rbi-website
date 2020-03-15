@@ -41,6 +41,8 @@ If you can help or donate supplies, please fill out this [Google Form](https://f
 
 Some supplies, such as RNA extraction kits, are specific to the eventual COVID-19 test used by our local public health facility. Other supplies, such as PPE, are not. Also, please note that although some supplies (such as RNA extraction kits) need to be an exact match, many (such as barrier tips) do not. We have noted these points next to each item. 
 
+**NOTE**: Please do not make large purchases of supplies simply to help with the emergency. At this point it may do more harm than good. In addition, please be cognizant of donations bought with NIH funds, we may have some auditing to do later on. We have lists of donations accrued via the donation form.
+
 ### Personal protective equipment
 
 Supplies of N95 masks, gowns, sleeves, and gloves at CDPHE are critically low.
