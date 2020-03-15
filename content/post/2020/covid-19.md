@@ -37,7 +37,7 @@ Please fill out this [Google Form](https://forms.gle/kJLZNnPznXLq7SM76) with you
 The most current list of needed supplies is on this [Google Sheet](https://docs.google.com/spreadsheets/d/1kHaE2AnRYQj_91f5Lwq891R44S9v79KMXDu-G_VkP9M/edit#gid=161763722).
 {{% /alert %}}
 
-If you can help or donate supplies, please fill out this [Google Form](https://forms.gle/UBLnYPnci1JKQP7X8) so we can coordinate donations. We will reach out with more information about how and when donations will be collected.
+If you can help or donate supplies, please fill out this [Google Form](https://forms.gle/UBLnYPnci1JKQP7X8) so we can coordinate donations. We are collecting supplies on the loading docks of RC1 South and North and will plan to make a trip to CDPHE with accumulated supplies at 12:00 PM each day as long as the campus is open.
 
 Some supplies, such as RNA extraction kits, are specific to the eventual COVID-19 test used by our local public health facility. Other supplies, such as PPE, are not. Also, please note that although some supplies (such as RNA extraction kits) need to be an exact match, many (such as barrier tips) do not. We have noted these points next to each item. 
 
