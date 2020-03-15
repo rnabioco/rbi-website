@@ -22,25 +22,8 @@ height = "300px"
 #  margin = ["0", "0", "0", "0"]
 
 [[item]]
-  title = "Single-cell Technologies Pilot Awards"
-  content = "Informational seminar on March 3, 2020"
-  align = "center"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  # overlay_color = "#CFB87C"  # An HTML color value.
-  overlay_img = "headers/droplets.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "More Information"
-  cta_url = "/sc-pilot"
-  
-[[item]]
-  title = "Dean's Distinguished Seminar"
-  content = "Splicing pioneer Adrian Krainer, PhD visits on March 10, 2020"
+  title = "CU Anschutz COVID-19 Resource"
+  content = "How you can help?"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -48,7 +31,7 @@ height = "300px"
   overlay_color = "#CFB87C"  # An HTML color value.
 
   cta_label = "More Information"
-  cta_url = "/talk/2020/seminars/krainer/"
+  cta_url = "/covid-19"
 
 #[[item]]
 #  title = "Left"
