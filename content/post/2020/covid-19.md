@@ -1,6 +1,6 @@
 ---
 title: How CU Anschutz Scientists Can Help with the COVID-19 Emergency
-date: '2020-03-14'
+date: 'Sun Mar 15 12:20:48 2020'
 subtitle: ''
 url: "/covid-19"
 summary: ''
@@ -8,6 +8,7 @@ authors: []
 featured: yes
 focal_point: ''
 preview_only: no
+showFooter: false
 ---
 
 {{% alert note %}}
@@ -17,6 +18,18 @@ preview_only: no
 Although our campus is closed to non-essential personnel, you can still make a difference in combatting COVID-19. Many of our bread-and-butter research supplies can be used by public health officials, some of our equipment can be repurposed, and our personnel can help our local community.
 
 In coordination with our local testing facility at the [Colorado Department of Public Health and the Environment](https://www.colorado.gov/cdphe), we have drawn up a list of ways in which CU Anschutz scientists can act. 
+
+## Volunteering at CDPHE
+
+We may need volunteers to help Colorado Department of Public Health and Environment manage the COVID-19 emergency. 
+
+You must be able to work in a high stress environment, handle human samples (HIPPA) in a tissue culture hood, with full protective gear on.
+
+We also want to know if you have CLIA/CAP certification to participate directly in sample preparation and testing.
+
+CDPHE are short-staffed and may also be able to use volunteers to help with inventory and paperwork.
+
+Please fill out this [Google Form](https://forms.gle/kJLZNnPznXLq7SM76) with your expertise and contact information. We'll be in touch if we need you help.
 
 ## Lab Supplies
 
@@ -51,15 +64,13 @@ These kits are in short supply and currently rate-limiting for testing:
 
 ## Other ways to help
 
--	**If you are CLIA-certified, please let us know.** In the upcoming weeks, extra, trained personnel will be needed to increase capacity. 
-
 -	**Donate blood!** There has been drop in blood donations, and we are now at Level 2 shortage. If you are healthy, consider donating through [Vitalant](https://vitalant.org). Blood donations will be done with appropriate precautions to prevent COVID-19 spread.
 
 -	**Explain the situation to your friends and communicate how they should implement social distancing.** Write to local organizations (gyms, churches, etc.) to convince them to postpone gatherings. 
 
 -	**Take care of at-risk people in your community.** For instance, can you deliver some much-needed groceries for your elderly neighbor!
 
-## Contact
+## Contact Information
 
 - Brian Kempf <BRIAN.KEMPF@cuanschutz.edu>
 - Olivia Rissland <olivia.rissland@cuanschutz.edu>
