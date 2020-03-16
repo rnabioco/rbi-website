@@ -70,6 +70,8 @@ These kits are in short supply and currently rate-limiting for testing:
 
 -	**Donate blood!** There has been drop in blood donations, and we are now at Level 2 shortage. If you are healthy, consider donating through [Vitalant](https://vitalant.org). Blood donations will be done with appropriate precautions to prevent COVID-19 spread.
 
+- Check out this [compilation](https://www.curtisforaurora.com/covid19) of local food banks and other community resources, and see how you can help the most vulnerable in our community
+
 -	**Explain the situation to your friends and communicate how they should implement social distancing.** Write to local organizations (gyms, churches, etc.) to convince them to postpone gatherings. 
 
 -	**Take care of at-risk people in your community.** For instance, can you deliver some much-needed groceries for your elderly neighbor!
