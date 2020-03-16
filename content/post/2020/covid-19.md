@@ -1,6 +1,6 @@
 ---
 title: How CU Anschutz Scientists Can Help with the COVID-19 Emergency
-date: 'Sun Mar 15 12:20:48 2020'
+date: 'Mon Mar 16 11:28:21 MDT 2020'
 subtitle: ''
 url: "/covid-19"
 summary: ''
@@ -13,6 +13,10 @@ showFooter: false
 
 {{% alert note %}}
 **Because this is a rapidly changing situation, please check this page periodically for updates.**
+
+**Things are developing quickly and at this point it's not clear what donations are needed.** Please don't drive into town before contacting us (contact info below). AMC is shutdown as of today and you may not be able to get into the loading docks to drop things off.
+
+**Last updated 11:26 AM on March 16 2020 by JH**
 {{% /alert %}}
 
 Although our campus is closed to non-essential personnel, you can still make a difference in combatting COVID-19. Many of our bread-and-butter research supplies can be used by public health officials, some of our equipment can be repurposed, and our personnel can help our local community.
@@ -49,9 +53,11 @@ Supplies of N95 masks, gowns, sleeves, and gloves at CDPHE are critically low.
 
 ### Filter tips
 
-CDPHE is using large numbers of filter tips. They need donations of Tip One or similar filter tips.
+It's not clear currently whether more tips are needed. Thanks for all your donations.
 
 ### RNA Extraction Kits
+
+If you have reagents for the Thermo King Fisher, please get in touch.
 
 These kits are in short supply and currently rate-limiting for testing:
 
