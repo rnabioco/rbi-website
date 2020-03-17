@@ -16,7 +16,9 @@ showFooter: false
 
 **Things are developing quickly and at this point it's not clear what donations are needed.** Please don't drive into town before contacting us (contact info below). AMC is shutdown as of today and you may not be able to get into the loading docks to drop things off.
 
-**Last updated 11:26 AM on March 16 2020 by JH**
+See below for information on a blood drive on the Anschutz Medical Campus.
+
+**Last updated 2:28 PM on March 17 2020 (JH)**
 {{% /alert %}}
 
 Although our campus is closed to non-essential personnel, you can still make a difference in combatting COVID-19. Many of our bread-and-butter research supplies can be used by public health officials, some of our equipment can be repurposed, and our personnel can help our local community.
@@ -74,7 +76,7 @@ These kits are in short supply and currently rate-limiting for testing:
 
 ## Other ways to help
 
--	**Donate blood!** There has been drop in blood donations, and we are now at Level 2 shortage. If you are healthy, consider donating through [Vitalant](https://vitalant.org). Blood donations will be done with appropriate precautions to prevent COVID-19 spread.
+-	**Donate blood!** Blood donations are critically short right now. We will have a blood drive at CU AMC on Friday March 23 from 11:30 to 6 pm at the Leprino building. If you are healthy and on campus, please donate! Walk-ins welcome or you can sign up at the [Vitalant website](vitalant.org).
 
 - Check out this [compilation](https://www.curtisforaurora.com/covid19) of local food banks and other community resources, and see how you can help the most vulnerable in our community
 
