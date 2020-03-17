@@ -14,9 +14,7 @@ showFooter: false
 {{% alert note %}}
 **Because this is a rapidly changing situation, please check this page periodically for updates.**
 
-**Things are developing quickly and at this point it's not clear what donations are needed.** Please don't drive into town before contacting us (contact info below). AMC is shutdown as of today and you may not be able to get into the loading docks to drop things off.
-
-See below for information on a blood drive on the Anschutz Medical Campus.
+See below for information on a blood drive on the Anschutz Medical Campus on Monday March 23.
 
 **Last updated 2:28 PM on March 17 2020 (JH)**
 {{% /alert %}}
@@ -36,43 +34,6 @@ We also want to know if you have CLIA/CAP certification to participate directly 
 CDPHE are short-staffed and may also be able to use volunteers to help with inventory and paperwork.
 
 Please fill out this [Google Form](https://forms.gle/kJLZNnPznXLq7SM76) with your expertise and contact information. We'll be in touch if we need you help.
-
-## Lab Supplies
-
-{{% alert note %}}
-The most current list of needed supplies is on this [Google Sheet](https://docs.google.com/spreadsheets/d/1kHaE2AnRYQj_91f5Lwq891R44S9v79KMXDu-G_VkP9M/edit#gid=161763722).
-{{% /alert %}}
-
-If you can help or donate supplies, please fill out this [Google Form](https://forms.gle/UBLnYPnci1JKQP7X8) so we can coordinate donations. We are collecting supplies on the loading docks of RC1 South and North and will plan to make a trip to CDPHE with accumulated supplies at 12:00 PM each day as long as the campus is open.
-
-Some supplies, such as RNA extraction kits, are specific to the eventual COVID-19 test used by our local public health facility. Other supplies, such as PPE, are not. Also, please note that although some supplies (such as RNA extraction kits) need to be an exact match, many (such as barrier tips) do not. We have noted these points next to each item. 
-
-**NOTE**: Please do not make large purchases of supplies simply to help with the emergency. At this point it may do more harm than good. In addition, please be cognizant of donations bought with NIH funds, we may have some auditing to do later on. We have lists of donations accrued via the donation form.
-
-### Personal protective equipment
-
-Supplies of N95 masks, gowns, sleeves, and gloves at CDPHE are critically low.
-
-### Filter tips
-
-It's not clear currently whether more tips are needed. Thanks for all your donations.
-
-### RNA Extraction Kits
-
-If you have reagents for the Thermo King Fisher, please get in touch.
-
-These kits are in short supply and currently rate-limiting for testing:
-
-- QIAGEN with QIAmp DSP Viral RNA Mini Kit
-- QIAGEN EZ1 Advanced XL with EZ1 DSP Virus Kit
-- QIAGEN QIAcube with QIAmp DSP Viral RNA Mini Kit
-- Roche MagNA Pure LC with Total Nucleic Acid Kit
-- Roche MagNA Pure Compact with Nucleic Acid Isolation Kit I
-- Roche MagNA Pure 96 with DNA and Viral NA Small Volume Kit
-
-## Lab Equipment 
-
-** COMING SOON **
 
 ## Other ways to help
 
