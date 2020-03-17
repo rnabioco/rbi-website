@@ -76,7 +76,7 @@ These kits are in short supply and currently rate-limiting for testing:
 
 ## Other ways to help
 
--	**Donate blood!** Blood donations are critically short right now. We will have a blood drive at CU AMC on Friday March 23 from 11:30 to 6 pm at the Leprino building. If you are healthy and on campus, please donate! Walk-ins welcome or you can sign up at the [Vitalant website](vitalant.org).
+-	**Donate blood!** Blood donations are critically short right now. We will have a blood drive at CU AMC on Monday March 23 from 11:30 to 6 pm at the Leprino building. If you are healthy and on campus, please donate! Walk-ins welcome or you can sign up at the [Vitalant website](vitalant.org).
 
 - Check out this [compilation](https://www.curtisforaurora.com/covid19) of local food banks and other community resources, and see how you can help the most vulnerable in our community
 
