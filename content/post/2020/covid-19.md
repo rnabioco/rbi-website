@@ -14,26 +14,18 @@ showFooter: false
 {{% alert note %}}
 **Because this is a rapidly changing situation, please check this page periodically for updates.**
 
-See below for information on a blood drive on the Anschutz Medical Campus on Monday March 23.
+CU Anschutz is now coordinating [donation](https://www.cuanschutz.edu/coronavirus/research-guidance/reagents-and-supplies-needed) efforts.
 
-**Last updated 2:28 PM on March 17 2020 (JH)**
+**Last updated on March 21 2020 (JH)**
 {{% /alert %}}
 
 Although our campus is closed to non-essential personnel, you can still make a difference in combatting COVID-19. Many of our bread-and-butter research supplies can be used by public health officials, some of our equipment can be repurposed, and our personnel can help our local community.
 
-In coordination with our local testing facility at the [Colorado Department of Public Health and the Environment](https://www.colorado.gov/cdphe), we have drawn up a list of ways in which CU Anschutz scientists can act. 
+## Volunteering
 
-## Volunteering at CDPHE
+We may need volunteers to help manage the COVID-19 emergency. 
 
-We may need volunteers to help Colorado Department of Public Health and Environment manage the COVID-19 emergency. 
-
-You must be able to work in a high stress environment, handle human samples (HIPPA) in a tissue culture hood, with full protective gear on.
-
-We also want to know if you have CLIA/CAP certification to participate directly in sample preparation and testing.
-
-CDPHE are short-staffed and may also be able to use volunteers to help with inventory and paperwork.
-
-Please fill out this [Google Form](https://forms.gle/kJLZNnPznXLq7SM76) with your expertise and contact information. We'll be in touch if we need you help.
+Please fill out this [Google Form](https://forms.gle/kJLZNnPznXLq7SM76) with your expertise and contact information. We'll be in touch if we need your help.
 
 ## Other ways to help
 
@@ -47,6 +39,5 @@ Please fill out this [Google Form](https://forms.gle/kJLZNnPznXLq7SM76) with you
 
 ## Contact Information
 
-- Brian Kempf <BRIAN.KEMPF@cuanschutz.edu>
 - Olivia Rissland <olivia.rissland@cuanschutz.edu>
 - Jay Hesselberth <jay.hesselberth@cuanschutz.edu>
