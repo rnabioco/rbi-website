@@ -14,7 +14,7 @@ menu:
 ---
 
 {{% alert note %}}
-Beginning the week of March 16, in-person office hours have been cancelled due to COVID-19. Please email <rbi.fellows@cuanschutz.edu> to schedule a remote consulation via Zoom or Skype.
+Office hours have been moved due to remote consultations via Zoom. Please schedule time with us using the calendly app shown below.
 {{% /alert %}}
  
 *Bash*-ing your head?  
@@ -25,26 +25,20 @@ The RBI Informatics Fellows are here to help. Bring us broken scripts and softwa
 
 ## Office Hours
 
-The RBI Informatics fellows hold weekly RBI office hours on Thursdays from 1-4 PM. These office hours were initiated to allow investigators across campus to ask questions about the design, execution, and analysis of RNA-related sequencing experiments. 
+The RBI Informatics fellows hold weekly RBI office hours over Zoom on Thursdays from 1-4 PM. These office hours were initiated to allow investigators across campus to ask questions about the design, execution, and analysis of RNA-related sequencing experiments. 
 
-**Office hours are held in RC1 South room 9101 (in the fishbowl)**
-
-### 1-2pm open for walk-in help 
-  
-### 2-3pm 15 min scheduled meetings
-
-Due to demand we have set aside scheduled time for meetings. Please email us to reserve a time slot. We have scheduled these times to be 15 minutes, but can be extended depending on availability. 
-  
-### 3-4pm single cell RNA-seq experimental design consultations
-
-These times are reserved for meetings to discuss experimental design related to single cell RNA-seq. Please email us to schedule a time.
-  
 ## Current Availability
 
-{{% alert note %}}
-**Please email <rbi.fellows@cuanschutz.edu> to schedule a consulation**
-{{% /alert %}}
+Please schedule time with us using the calendly app below. Provide a brief description of your question(s) so that we can try to pair you with the most suitable informatics fellow. 
 
-The calendar below displays our current availabilty. To be added to the calendar you must email us.
+  
+<div class="calendly-inline-widget" data-url="https://calendly.com/rbi-informatics-fellows/office-hours" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
 
-<iframe src="https://calendar.google.com/calendar/embed?showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=ajiqgsg27g5215mj18ljidbsrk%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=America%2FDenver" style="border:solid 1px #777" width="700" height="400" frameborder="0" scrolling="no"></iframe>
+  
+
+## Contact info:
+
+Questions? The RBI fellows can be reached at <rbi.fellows@ucdenver.edu>. 
+
+
