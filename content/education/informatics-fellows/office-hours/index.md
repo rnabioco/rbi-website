@@ -14,7 +14,7 @@ menu:
 ---
 
 {{% alert note %}}
-Office hours have been moved due to remote consultations via Zoom. Please schedule time with us using the calendly app shown below.
+Office hours are now hosted as remote consultations via Zoom. Please schedule time with us using the calendly app shown below.
 {{% /alert %}}
  
 *Bash*-ing your head?  
